@@ -1,1 +1,0 @@
-("7.2" racket ("36c50cd82e0b59322b735f08056a88ec929eb7d8" . "af6be0ec718541888a4f8131150585662c614129") (collects #"pollen" #"decode.rkt") (collects #"pollen" #"misc" #"tutorial.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"txexpr" #"main.rkt"))
