@@ -1,0 +1,30 @@
+#lang pollen
+
+Headingtest for colors
+
+# Biggest, most important heading
+
+some example text to make some more content.
+
+## Subheading
+
+some example text to make some more content.
+
+### Sub-sub heading
+
+some example text to make some more content.
+
+
+#### Essentially just a bold text
+
+some example text to make some more content.
+
+
+##### Pretty useless
+
+some example text to make some more content.
+
+
+###### Very very useless
+
+some example text to make some more content.

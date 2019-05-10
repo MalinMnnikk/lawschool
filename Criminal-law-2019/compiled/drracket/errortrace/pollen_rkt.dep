@@ -1,0 +1,1 @@
+("7.2" racket ("36c50cd82e0b59322b735f08056a88ec929eb7d8" . "cd297054a9b72314fe60106374e3a0580b13fdf1") (collects #"errortrace" #"errortrace-key.rkt") (collects #"pollen" #"decode.rkt") (collects #"pollen" #"misc" #"tutorial.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"txexpr" #"main.rkt"))
