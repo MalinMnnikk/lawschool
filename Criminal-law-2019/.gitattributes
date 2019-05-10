@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+*.pmd linguist-language=Racket
+*.pp linguist-language=Racket
+*.p linguist-language=Racket
+*.ptree linguist-language=Racket
+*.rkt linguist-language=Racket
+*.html linguist-vendored
+*.css linguist-vendored
