@@ -21,11 +21,11 @@
 ◊(define prev-page (previous here))
 ◊when/splice[prev-page]{
  <span id="prev">←
- <a href="/◊|prev-page|">◊(select 'h1 prev-page)</a>
+ <a href="./◊|prev-page|">◊(select 'h1 prev-page)</a>
  </span>}
 ◊(define next-page (next here))
 ◊when/splice[next-page]{
- <span id="next"><a href="/◊|next-page|">◊(select 'h1 next-page)</a> →
+ <span id="next"><a href="./◊|next-page|">◊(select 'h1 next-page)</a> →
  </span>}
 </body>
 </html>
