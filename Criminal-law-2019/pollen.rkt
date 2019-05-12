@@ -9,13 +9,15 @@
 
 (define (add-toc elements toc)
   (if (list? elements)
-      (cons toc elements)
-      (cons toc (cons elements '()))))
+      (append toc elements)
+      (append toc (cons elements '()))))
 
 (define (build-toc elements)
   (let* ([headers (filter is-header? elements)]
          [toc (map header->li headers)]) 
-    (txexpr 'ul '() toc)))
+    (list
+     (txexpr 'h3 '() (list "Innehållsförteckning"))
+     (txexpr 'ul '() toc))))
 
 (define (is-header? element)
   (let ([tag (get-tag element)])
