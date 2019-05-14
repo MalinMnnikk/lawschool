@@ -7,4 +7,13 @@ The notes are in Swedish and regard swedish law as taught in 2017-2022.
 
 Please do not use the notes as primary source. 
 
-//MalinMnnikk
+
+Adding new files to index:
+
+If the index is not updating check: 
+ * that the new post is added to the local index.html.pmd file as such: [New Post](link.to.new.post)
+ * that the new post is added to the lawschool directory index.html
+ * that you have rendered the new edits
+ * commit and pushed to GitHub
+ * refresh the https://malinmnnikk.github.io/lawschool/ page
+  
