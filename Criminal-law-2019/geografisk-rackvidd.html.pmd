@@ -1,0 +1,187 @@
+#lang pollen
+
+# Straffrättens geografiska räckvidd
+
+Straffrättslig jurisdiktion
+
+## Nationella begränsningar på A1 nivå
+
+HR: de flesta brotten har inte territoriella eller nationella begränsningar
+--> utgör gärningen med hänsyn till nationella begränsningar ett brott mot svensk lag?
+
+Nationella begränsingar
+
+* brotten i BrB i utgångspunkt inte begränsade
+* speciallagstiftning ofta motsatta
+     * T.ex. TF, YGL brott och vapenbrott
+     * UND: lagen om straff för folkmord
+* begränsningar avseende bropttssubjekt, brottsobjekt och nationella intressen
+     * beror på brotssbeskrivningen t.ex. BrB 20:1, BrB kap. 15 samt kap. 17
+     * specialsubjekt t.ex. svensk medborgare, tjänstefel
+     * brottsobjekt kap 15 - svenska myndigheter och svensk myndighetsutövning, våld mot jänsteman
+
+Om en nationell begränsning inte är uppfylld är inte heller brottsbeskriviningen uppfylld
+
+## Var är brottet begånget
+
+* Lokalisering av brottet, var har det begåtts
+* BrB 2:4
+      * där den brottsliga handlingen företogs
+      * där brottet fullbordades eller skulle ha fullbordats
+* platsen för brottsliga gärningen
+* platsen för fullbordan
+      * predurerande brott
+      * underlåtenhet: när plikten att handla uppstod eller när möjligheten uppstår
+      * försök, medverkan och andra former av osjälvständiga brott = platsen för handlingen eller där det skulle ha fullbordats
+      * stämpling = där var hanldingen sker, inte var brottet hade fullbordats
+* på internet: var GP är, eller var GP:s server är
+
+## Straffrättslig jurisdiktion
+
+### 2 kap BrB
+
+Utgångspunkt: statssuveränitet
+
+Folkrättens begränsingar även aktuella
+
+* yttersta gräns, hur de suverena staterna kan tillämpa sin jurisdiktion
+
+Jurisdiktionskonflikter
+
+* brott som uppstår utanför alla jurisdiktion är sällsynta
+
+Materiella eller processuella?
+
+* i svensk rätt - materiella
+* processuell sida --> inte en brottsförutsättning
+
+### Begångna inom riket
+
+* territorialprincipen
+* BrB 2:1
+     * svensk lag och svensk domstol
+* riket = land, sjö och luft terrirotium
+
+### Utanför riket
+
+* BrB 2:2
+* Aktiva personalitetsprincipen
+
+1. Svenska medborgare
+2. utlänning med hemvist i Sverige
+       * folkbokföring inte alltid = hemvist
+3. utlänningar som efter att begått brottet blivit svenska medborgare eller tagit hemvist här
+4. dansk, finsk, isländsk eller norsk medborgare som finns i Sverige
+5. Annan utlänning som finns här i riket och på brottet enligt svensk lag kan följa fängelse i mer än 6 månader
+        * abstrakt straffvärde
+
+#### Första begränsningen, BrB 2:2 2 st.
+
+* kravet på dubbel straffbarhet
+* baserat på legalitetsprincipen
+* svenska och utländska lagen ska täcka varandra men brottsrubriceringen är inte av betydelse
+* bedömningen görs i princip in concreto men inte alltid helt uppenbart att så görs
+* rättfärdigande och ursäktande förhållanden ska beaktas
+* endast materiella aspekter tas med i bedömningen
+
+#### Lex mitior - grundsatsen, BrB 2:2 3 st.
+
+* straffmaximum enligt lagen på gänringsorten får inte överskridas
+* straffmätningen fäljer i utgångspunkt svenska regler och praxis
+* NJA 1983 s. 425
+
+Vid lokalisering i flera stater ska dubbel straffbarhet och lex mitior tillämpas NJA 1993 s, 292
+
+* lindrigaste påföljden kommer bli utslagsgivande
+* ska läsas med försiktighet
+      * p.g.a legalitetsprincipen inte är problematisk här
+      * om man begår en brottslig hanlding i flera stater kan detta fungera privilegande --> använd försiktigt!
+
+BrB 2:2 4 st.
+
+* gäller inte i:
+
+1. våldtäkt, sexuellt övergrepp, etc. sexualbrott mot barn
+1. människohandel och äktenskapstvång
+3. barnpornigrafibrott och grovt barnpornografibrott eller försök till sådana brott eller
+4. grovt olaga tvång
+
+* syfte: effektivisera lagföring, större möjlighet till bestraffning i Sverige enligt svensk lag. Så pass allvarliga brott
+* förenligt med folkrätten?
+* kravet på åtalsförordnande relevant ockås här
+
+## BrB 2:3
+
+1. 1p. uttrycker flaggprincipen
+      * en flytande del av territoriet
+2. 2-3a p. Uttrycker ett svenskt allmänt intresse som aknytningsfaktum
+      * lagföra personer som representerar Sverige utomlands
+3. 5p. Passiva personalitetsprincipen
+      * brottet är förövat mot en svensk person
+      * främst brott på det öppna havet samt luftrummet ovanför
+4. 4p. Grundas på statsskyddsprincipen
+      * svenska intressen
+5. 6p. baserar sig på brottets karaktär, universalitetsprincipen
+      * så allvarliga att det ligger i hela värdlens intresse att bekämpa
+      * baserat på Sveriges internationella förpliktelser
+6. 7p. universalitetsprincipen i vidare mening, svensk domstol bedöma alla brott som har straffminimum på minst 4 år
+
+## Åtalsförordnande BrB 2:5
+
+* brott inom riket behöver inte åtalsförordnande (HR)
+       * UND: 2:5, 7a-c
+* utanför riket --> krav på åtalsförordnande
+       * eftersom reglerna är så omfattande
+       * påtagligt svenskt intresse av lagföring
+       * hur tillknyter brottet till Sverige
+* HR: ges av regleringen, i vissa fall av Riksåklagaren
+* UND: BrB 2:5 2 st om brottet är osann eller ovarsam utsaga inför en internationell domstol eller (...)
+
+## Folkrättsliga begränsningar
+
+BrB 2:7
+
+* statssuveränitet som utgångspunkt
+* folkrättens begränsingar även aktuella
+* immunitet som exempel
+      * mot offentlig maktutövning t.ex. Statschefer, ministrar etc.
+* gäller om det inte annars regleras i bi eller multilaterala överenskommelser
+
+## Hinder mot lagföring
+
+BrB 2:5a
+
+* när har en utländsk dom res juricata kraft i Sverige
+* ska inte lagföras om vissa omständigheterna föreligger + inga undantag föreligger
+
+Und: 2:5a st. 2 svårbegriplig
+
+* verkan föreligger inte brott som begås i Sverige eller mot svenska intressen + vissa andra brott
+* BrB 2:5 1 st ska vara tillämpligt
+* BrB 2:5 2 st. ska inte vara tillämpligt
+
+Påföljd som har verkställts utomlands, BrB 2:6
+
+* då när person kan dömas för för gärning trots att hen redan har gjort en påföljd i annat land
+
+Konventionen om samarbete rörande lagföring av brott, BrB 2:3a
+
+* lag om internationellt samarbete
+* uttrycker ställföreträdande straffrättskipning
+
+## Överlämning och utlämning, BrB 2:8
+
+HR: överlämning och utlämning är uteslutet om lagföring redan skett i Sverige
+
+* om man inte utlämnar måste man lagföra (ish)
+* överlämning är mer moderniserat system inom EU
+
+Avslutningsvis
+
+* nationella begränsningar i brottsbeskrivningen relevant för A1 nivå
+* lokalisering enligt BrB 2:4
+* staten har jurisdiktion över sitt eget territorium
+* olika principer för brott utanför riket
+
+
+
