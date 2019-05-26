@@ -1,0 +1,153 @@
+#lang pollen
+
+# Från planering till fullbordat brott
+
+## Osjälvständiga brottsformer
+
+* kriminaliseringen är mer vidsträckt än vad som framgår av de enskilda straffbestämmelerna
+* försök, förberedelse, stämpling --> "steg till"
+* medverkan --> främja någon annnans otillåtna gärning, se FL om medverkan
+
+Stora olikheter finns mellan de olika osjälvständiga brottsformerna
+
+* försök förberedelse etc. förutsätter särskild föreskrift om kriminalisering (lagstifaren anser att vissa brott är kriminaliserade i tidigare led eftersom de är så allvarliga) detta krävs inte för medverkan
+* farekraven skiljer sig åt
+     * fara för fullbordat brott
+* möjligheterna att illbakaträda skiljer sig åt
+     * frivilligt och aktivt (oftast)
+
+## Trappan
+
+BrB 23:1-2
+
+1. Förberedelse och stämpling
+       * tar befattning med något elle rhar förbindelse med någon
+       * tankar är inte kriminaliserade (duh)
+       * men om man börjar göra mer än så...
+       * förberedelse = befattning med **något**
+       * stämpling = förbindelse med **någon**
+       * t.ex. skaffar vapen för att döda någon, BrB 3:1
+       * Vid något skede når man en försökspunkt
+
+2. Försök till brott
+       * påbörjar utförandet av brottet: t.ex. höjer vapnet för att skjuta
+       * påbörjar utförandet av brottet t.ex. höja vapnet för att skjuta
+       * hotet, våldet, tagande ska vara på något sätt påbörjat
+
+3. Fullbordat brott
+       * brottsrekvisiten i en brottsbeskrivning är uppfyllda
+       * avslutningspunkten t.ex. den beskjutne dör av skottet
+
+Man döms alltid för det sista ledet som är uppfyllt om det är samma brott!
+
+## Nivån
+
+A1 - Brottsbeskrivningenlighet
+
+* rekvisit som beskriver om det är stämpling, förberedelse eller försök
+* obs: frivilligt tillbakaträdande --> B2!
+
+### Försök till brott, BrB 23:1
+
+1. GP ska ha uppsåt till att föröva brott
+       * GP ska ha överskjutande uppsåt att begå fullbordat brott
+       * Culpösa försök är därför per definition uteslutna
+       * Avslutade försök: uppsåt prövas till huvudbrottet dvs. till rekvisiten för huvudbrottet, effekten fattas
+       * oavslutade försök: uppsåt krävs till den del av försöket som återstår och till huvudbrottet se NJA 2017 s. 531 p. 15-18 (Bussen i Östberga)
+2. Försöksansvar måste vara särskilt föreskrivet
+       * slutet av varje kapitel har stöd för vilka brott som är kriminaliserade på tidigare nivåer samt i specialstraffrätten t.ex. NSL 4 §
+       * ska skrivas upp och är ett extra rekvisit
+3. Utförandet av brottet måste ha påbörjats
+       * försökspunkten nås som HR genom något av dessa fyra typfall
+
+
+      1. om försöket är avslutat/fulländat t.ex. skjutit och missat
+      2. om det är språkligt korrekt att säga att "x håller på att ..." "höll på att..."
+      3. om GP har vidtagit åtgärder som endast är av förberedande karaktär men som direkt anknyter till brottsbeskriviningen
+      4. om GP visserligen inte har gjort något som direkt anknyter till brottsbeskrivingen, men har utfört gärningar som tydligt visar att brottsplanen börjar verkställas
+
+4. Brottet ska inte ha kommit till fullbordan
+     * då döms  man för det fullbordade brottet
+     * ingenting hindrar att man döms för försök till ett brott och ett annat fullbordat brott
+5. något av de alternativa farerekvisiten ska vara uppfyllda
+    * konkret fara eller 1. plausibelt och existentiellt möjligt 2. tjänligt försök
+    * ej konkret fara men sådan fara är utesluten p.g.a tillfälliga omständigheter
+    * om ja --> farobrott
+    * tillfälliga omständigheter = sådana som från GP synpunkt är att se som tillfällighet bedömningen beror b.la. av tid, avgränsad eller generell brottsplan
+    * är brottsplanen värd att tas på allvar?
+    * vidgad tidsmässig bedömning
+    * representant för större krets?
+    * avgränsat eller generell uppsåt?
+
+## Begrepp
+
+**fulländat försök** = återstår inget moment för GP att utföra
+**ofulländat försök** =  återstår inget moment inom ramen för försöket. Har relevans för frivilligt tillbakaträdande
+
+----- Fara ------
+
+**tjänligt försök** = konkret fara (faktiskt möjligt ohc sannolikt) för brottets fullbordan
+
+**otjänligt försök** = ej konkret fara p.g.a. att antingen medlet eller objektet är otjänligt. Det påbörjade kan omöjligen slutföras
+
+**tillfälliga omständigheter** = ställ frägan om försöket är värt att tas på allvar
+
+
+# Förberedelse och stämpling till brott
+
+* stämpling kriminaliseras i mindre utsträckning än förberedelse
+* krav på överskjutande uppsåt
+* subsidiärt i förhållande till förberedelse
+
+## Förberedelse
+
+BrB 23:2
+
+1. GP ska ha uppsåt att utföra eller främja brott
+      * överskjutande uppsåt
+      * oaktsamt går inte
+      * Avslutade förberedande/stämplingsgärning uppsåt till huvudbrottet
+      * Oavslutade förberedande/stämplingsgärning NJA 2011 s. 627 p. 10 --> uppsåt att begå resten + tid, rum, brottsoffer kan vara obestämda men i vart fall ska man kunna hänföra till en viss brottstyp, NJA 1992 s. 679
+2. Krav på särskild föreskrift
+      * slutet på kapitlen och i specialstraffrätten
+3. Förberedelsegänringen: GP ska
+      * ta emot eller lämna pengar eller annt som betlaning för brottet eller för att täcka kostnader för brottets utförande eller
+      * skaffat, tillverkat, sammanställt, lämna, tagit eot, förvarat, transporterat eller tagit annan sådan befattning med något som varit särskilt ägnat att användas som hjälpmedel vid brott. NJA 2018 s. 512, 2007 s. 774, 1995 s. 405 RH 1981:35 RH 1999:11
+4. brottet ska inte utgöra försök (eller vara fullbordat)
+5. Vid ringa fara ska inte dömas till ansvar
+      * inget brott. Inga tillfälliga omständigheter
+      * utgångspunkten för bedömningen är tidpunkten för själva förberedelsgärningen
+
+## Stämpling
+
+1. GP ska ha uppsåt att fullborda brott ska komma till stånd
+2. krav på särskid föreskrift
+3. Stämplingsgärningen GP ska:
+       * i samråd med annan ha beslutat att föröva brott
+       * ha sökt anstifta annan föröva brott: avsiktsuppsåt att anstifta annan
+       * ha åtagit sig att utföra brott eller
+       * ha ebjudit sig att utföra brott
+4. Brottet ska inte utföra förberedelse försök eller vara fullbordat
+5. vid ringa fara ska inte dömas till ansvar
+
+## Frivilligt tillbakaträdande
+
+BrB 23:3, B2
+
+Utgångspunkter:
+
+Förberedelse/stämpling
+
+* kräver aktivitet
+* t.ex. övertala min brottskumpan att inte fortsätta, förstöra brottsverktygen
+
+Försök
+
+* passivitet kan räcka (ofulländade försök)
+      * höjer vapnet utan att skjuta - sänker vapnet 
+* aktivitet krävs (fulländade försök)
+      * höjer vapnet och skjuter - räddar livet på offret genom att ta denne till sjukhus, RH 2008:90
+
+Betyder inte att man går straffri endast att man inte döms till just det här.
+
+
