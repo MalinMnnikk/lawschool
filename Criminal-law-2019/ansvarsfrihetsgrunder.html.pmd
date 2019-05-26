@@ -1,0 +1,212 @@
+#lang pollen
+
+# Ansvarsfrihetsgrunder
+
+STRAFF-L
+
+Allting är inte brottsligt
+
+* BrB 1:1 med undantag
+* även om någonting uppfyller brottsbeskrivningsenligheten så kan gärningen vara ansvarsfri
+
+Ansvarsfrihetsgrund = regel som utesluter ansvar för brott
+
+* t.ex. rättfärdigad gärning, ursäktad GP etc.
+
+Två olika typer...
+
+## 1. Rättfärdigande (A2) - **objektiv** prövning
+
+1. Nödvärn, 24:1
+2. Nöd, 24:4
+3. Samtycke, 24:7
+4. Laga befogenhet 10 § PL, BrB 24:2
+5. Förmans order, 24:8
+6. Social adekvans
+7. Ringa medverkan, 23:5-6
+
+--> gärningen är inte straffvärd, den är rättsenlig/rättfärdigad
+
+Negativt rekvisit = ska **inte** vara uppfyllt för att gärningen ska vara otillåten
+
+## 2. Ursäktande (B2) - **subjektiv** prövning
+
+1. Excess, 24:6
+2. Straffrättsvillfarelse, 24:9
+3. Frivilligt tillbakaträdande, 23:3
+4. Ringa medverkan, 23:5-6
+5. Tillfällig sinnesförvirring
+6. Putativtillstånd (prövning på B1 nivå)
+
+--> GP är inte tillräckligt straffvärd
+
+Negativt rekvisit = ska inte vara uppfyllt för att gärningen ska utgöra ett brott
+
+Spelar roll främst för medverkansläran
+
+Signalvärde - värde i att vara tydlig på vilken grund någon frias eller fälls
+
+# Rättfärdigande omständigheter
+
+* BrB 24 kap.
+* 10 § PolisL
+* oskrivna regler, t.ex. social adekvans
+* negativt rekvisit
+
+## Nödvärn, BrB 24:1
+
+* begår i nödvärn
+* brott om det är uppenbart oförsvarligt
+
+Ska vara frågan om en **nödvärnssituation** (p. 1-4)
+
++ våldsanvändingen får inte vara uppenbart oförsvarligt
+
+Rätt till nödvärn föreligger endast mot
+
+1. Påbörjat eller överhängande brottsligt angrepp på person eller egenom
+    * Rekvisit:
+    * påbörjat/överhängande = behöver inte vara omdelebart, men nästan
+    * inte avslutat - gräns mot hämndaktionen
+    * Brottsligt: hela brottsbegreppet A1-B2 ska vara uppfyllt, inte nödvärnsrättt mot djur
+    * Angrepp - inte passiva förhållanden, i vart fall vad gäller angrepp på person eller egendom
+
+2. Försvarlighetsbedömningen
+    * Våld mot angrepp
+    * oförsvarligt våld är försvarligt
+    * Beakta: Angreppets beskaffenhet, det angripnas betydelse (skyddsvärde), omständigheterna i övrigt
+
+Två avgörande moment: det intresse som kränks genom nödvärnshandlingen vs den skada som hotar genom angreppet. + nödvärnsgräningen vs. det behövliga
+
+En långtgående rätt, prop: "relativt bred marginal"
+
+--> proportionalitet och nödvändighet
+
+NJA 2005 s. 237
+
+* 1 knivhugg vs. 5 knivhugg tillbaka
+* HD: livsfarligt våld --> långtgående skyldighet till alternativa nödvärns handlingar
+* oklarare angånede våld med händerna, rätt att slå tillbaka (man behöver inte fly)
+
+Objektiv rättfärdigandegrund - spelar ingen roll om man inser att man är i en nödvärnssituation
+
+--> även den som inte vet har rätt har nödvärnsrätt
+
+**strikt objektiv rätt** (gäller alla rättfärdigande grunder
+
+## Nöd, BrB 24:4
+
+* subsidiär till nödvärn
+* obs oförsvarlig (jmf med uppenbart oförsvarligt ovan)
+* fara hotar liv, hälsa, egendom eller något annat viktigt av rättsordningen skyddat intresse (rättsordningen skyddar inte alltid liv och hälsa)
+
+Nödsituation + inte oförsvarlig
+
+*När fara hotar*
+
+* liv eller hälsa
+* egendom
+* annat av rättsordningen skyddat intresse
+
+Behöver inte vara någons fel, inte heller att farokällan blir objekt för handlingen
+
+**Fara hotar**
+
+* nära förstående eller tämligen nära förestående
+     * tidigare än nödvärn
+* oavsett farans ursprung
+
+Kontexten avgör vilket intresse som skyddas av rättsordningen
+
+* NJA 1979 s. 335 - de falska passen
+      * Argentinska invandrare som förfalskat pass för att komma undan de politiska krafterna i Argentina
+      * HD det finns sätt att göra detta på "rätt sätt" i det svenska systemet, ingen rätt till nöd, även om det iofs förelåg en fara
+* NJA 1982 s. 621 - Rädda Voxnadalen
+      * HD: iofs fara för hälsa, men intresseavvgäningen hade redan gjorts och beslut fattats i rätt ordning, därför inte nöd
+
+** Försvarlighetsbedömningen**
+
+* snävare än nödvärn
+* får rikta sig åt vilket håll som helst
+* samma parametrar: behovsprövning, --> propoerionalitet (betydligt större vikt), nödvändighet (rimligt motiverat)
+
+## Samtycke, BrB 24:7
+
+* inte samma resonemang som i sexuallagstiftningen, BrB 6 kap.
+* inte heller samma som i "olovligen" t.ex. stöld
+* ovanligt med samtycke i domstolen
+* syfte: staten ska inte blanda sig i individens frihet, inom vissa gränser
+
+1. Giltigt samtycke
+      * Omfatta gärningen
+      * föreligga under hela gärningen
+      * behörig att förfoga över intresset
+      * förmpga att förstå innebörden av samtycke
+      * frivilligt och informerat
+      * allvarligt menat
+
+Hypotetiskt samtycke?
+
+* HR: friar inte
+* större betydelse i bemärkelsen olovligen
+
+2. Inte oförsvarlig (i relation till vad staten kan godta och vad individen kan godta)
+       * slada/kränking/fara
+       * syfte
+       * omständigheterna i övrigt
+
+Inte möjligt att samtycka till mord/dråp (dödande)
+
+Samtycke till misshandel: i princip alltid till ringa misshandel
+
+Undantag/specialsituationer
+
+* hälso och sjukvården
+* lek och idrott
+        * NJA 2018 s. 581 Cross-checking (inte samtycke eller socialt adekvat)
+
+## Laga befogenhet
+
+1. Användandet av våld ska syfta till att genomföra en tjänsteåtgärd
+2. Våldsanvändingen kräver att andra medel är otillräckliga
+3. Våldet måste vara försvarligt med hänsyn till omstädnigheterna i varje enskilt fall
+
+10 § PolisL, BrB 24:2
+
+*alla som hjälper den som har rätt till nödvärn, nöd eller laga befogenhet har samma rätt men inte skyldighet, BrB 24:5
+
+## Social adekvans
+
+* om vi inte kan motivera ansvarsfrihet på något annat sätt där det anses orimligt att straffa någon
+     * sport och lek
+     * hälso och sjukvård
+* i symbios med "riktiga" ansvarsfrihetsgrunder
+* beteckning på en slutsats inte ett argument för rättsenlighet
+
+# Ursäktande omständigheter
+
+## Excess, BrB 24:6
+
+* har gjort mer än vad som medges + svårsligen besinna sig
+
+1. Förelegat rätt till nödvärn, nöd eller laga befogenhet
+2. Man har gjort mer än vad som är medgivet i dessa fall
+3. På grund av att man svårligen kunnat besinna sig
+      * NJA 2005 s. 237 och NJA 2009 s. 234
+      * Väldigt subjektiv
+      * händelsegörloppet: farans art, tid till förfogande
+      * Personliga förutsättningar att hantera situationen: egenskaper, tillstånd
+
+--> våldet ursäktas
+
+## Putativtillstånd
+
+* inbillade ansvarsfrihetsgrunder
+* utlopp av täckningsprinciper
+* systematiskt placerad som uppsåtsbrist
+      * okunnighet till fränvaro av ett negativt rekvisit räcker
+* samma prövnign som vanligt men med annan utgångspunkt än verkligheten
+      * rättfärdigat om handlingen hade varit o.k. OM verjligheten stämmde överens med inbillningnen
+* tänkbart med putativexcess, BrB 24:6 analogt 
+* kan bli aktuellt med oaktsamhetsansvar
+      * var missuppfattningen oaktsam? 
