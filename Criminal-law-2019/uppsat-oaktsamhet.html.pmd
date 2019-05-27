@@ -1,0 +1,159 @@
+#lang pollen
+
+# Uppsåt och oaktsamhet
+
+De två formerna av skuld i svensk rätt
+
+Konformitetsprincipen
+
+* förmåga och tillfälle att rätta sig efter lagen
+* t.ex.
+      * ofrivilliga handlingar
+      * omöjlig att utföra t.ex. bristande kunskap, skicklighet
+      * psykisk sjukdom
+      * villfarelse om lagens innehåll i vissa särskilda situationer, BrB 24:9
+* --> orimligt att skaffa någon som inte har denna förmåga
+
+Skuldprincipen
+
+* alla brott förutsätter skuld
+* straffet ska vara proportionerligt till skulden
+
+## B1 - Det allmänna skuldkravet (Uppsåt och oaktsamhet)
+
+### Allmänt
+
+* skuld ger underlag för klander
+      * attityd och förståelse
+* HR: GP har agerat medvetet
+      * RH 2008:90 Rödebydomen, även psykiskt sjuka kan vara medvetna
+* även att handla omdömeslöst eller i ilska innebär inte frånvaro av medvetenhet
+* brottstyper ställer som HR krav på uppsåt, oaktsanhet endast om det framgår i lagrummet
+      * t.ex. jmf BrB 3:1 och 3:7
+      * Behöver inte stå oaktsamhet, kan också stå synonymer
+
+### Uppsåt-dolus
+
+* kognitivt och voluntativt element
+* kognitiv = förståelse. Vad GP vetat eller insett något
+* Voluntativ = inställning. Attityden i relation till gärningen
+
+#### Kognitiva elementet
+
+1. Fullständig insikt
+2. Praktisk visshet/insikt (dock inte uteslutet att man kan ha fel)
+3. Mycket hög uppfattad sannolikhet
+4. Sannolikhetsöversikt ( > 51%)
+5. Troligen
+6. Tveksamt (kankse/kanske inte)
+7. Möjlighet (misstanke)
+
+#### Uppsåtsformerna
+
+**Avsiktsuppsåt**
+
+- syfte, vill att något ska ske (voluntativ)
+
+* tillämplig endast i förhållande till följder t.ex. skada, död etc. **effekt rekvisit**
+* följden eftersträvas som ett mål eller som ett genomgångsled (till ett annat mål)
+* GP gör något "i syfte att", "För att", "med avsikt att" en viss följd ska inträda
+* innefattar både kognitiv och voluntativt element
+        * attityden är dock det som är straffvärt
+
+**Insiktsuppsåt**
+
+- praktisk visshet, förstår att något ska ske (kognitiv)
+
+* både följder och andra omständigheter
+* ingen 100% insikt krävs
+       * dock ska GP inte hysa någon egentlig tvivel om saken
+* insiktsuppsåt bygger uteslutande på det kognitiva elementet
+
+**Likgiltighetsuppsåt**
+
+* misstanke om risk för att någo kommer att ske, och
+* är likgiltig till eiskens förverkligande (dvs följden) voluntativ
+      * NJA 2004 s. 176 (HIV-fallet) och NJA 2016 s. 763 p. 19-24
+      * prövningen ska alltid ske i båda leden för att nå upp till den lägsta formen av uppsåt
+
+jfr med att vara enbart:
+
+* *Likgiltig inför risken* (**medveten oaktsamhet**)
+* *Likgiltig inför huruvida det finns en risk* (**omedveten oaktsamhet**)
+
+## Oaktsamhet (culpa)
+
+- brottsbeskrivningen måste innehålla straff för oaktsamhet
+
+### Medveten oaktsamhet:
+
+* misstänker att ngt kommer att ske, men är inte likgiltig till följden
+* första ledet är likadant som för likgiltighetsuppsåt
+* risken finns och medvetet risktagande, men inget likgiltighet
+
+### Omedveten
+
+* misstänker inte att någo kommer att ske men borde ha gjort det. Bedömning i två led:
+      * Orsaksled: vad kunde GP ha gjort för att komma till insikt t.ex. tänka efter, skaffa information, utöva självkontroll, föra anteckningar
+      * Klandervärdhetsled: beroende av GPs förmåga och tillfälle att agera samt dennes personliga förutsättningar, vad som kan begräras - vad kan förväntas? Beror t.ex. på syn, fysisk styrka, rörelseförmåga, erfarenhet, läggning, hörsel, utbildningsnivå.
+
+### Skuldstege
+
+1. Avsiktsuppsåt
+2. Insiktsuppsåt
+3. Likgiltighetsuppsåt
+4. Medveten oaktsamhet
+5. Omedveten oaktsamhet
+
+---------------------------
+
+6. rena olyckor = inget ansvar
+
+## Gärningsculpa vs. personlig culpa
+
+Blanda inte ihop culpa med varandra, även om det ena leder till det andra oftast
+
+* Gärningsculpa - A1
+      * Gärningen i fokus
+      * vad hade aktsamhet lett till? Utebliven skada, fara eller kränkning
+* Personlig culpa - B1
+      * brist på insikt, okunnighet
+      * aktsamhet hade lett till insikt
+
+## Täckningsprincipen
+
+* B1 nivå ska täcka närvaron av rekvisit på A1 nivån (positiva rekvisit)
+      * SKA vara uppfyllda
+* B1 nivå ska också täcka frånvaron av rekvisit på A2 nivå (negativa rekvisit)
+      * SKA INTE vara uppfyllt
+* Båda ska täckas av uppsåtet
+
+t.ex. misshandel kan alltså vara uteslutet om jag slår någon i den felaktiga tron att jag har haft nödvärnsrätt s.k. putativ nödvärn
+
+### Undantag från täckningsprincipen
+
+Överskjutande uppsåtsrekvisit
+
+* prövas redan på A1 nivå om det står i lagen att man ska göra det
+* t.ex. BrB 8:1 "uppsåt att tillägna sig" "med avsikt att" "för att"
+* vissa brott ställer krav på ett kvalificerat uppsåt, andra okvalificerade uppsåt
+
+Fristående brottsrekvisit
+
+* vissa behöver inte täckas
+* t.ex. BrB 21-22 kap. när riket är i krig
+
+## Putativsituationer
+
+"Jag trodde att"
+
+* misstag, villfarelse om den verkliga situationen
+* förutsätter att domstolen godtar den felaktiga tron och att den rätta tron skulle ha gett rätt till nödvärn
+* se putativ nödvärn och putativ nöd
+
+## Uppsåtkravet förhållande till självförvållat rus
+
+* BrB 1:2 2 st
+* NJA 2011 s. 563, ingen särregel för russituationer utan vanliga regler och principer gäller. Skuldprincipen gäller alldeles oavsett
+* vanlig uppsåtsprövning
+* man kan alltså inte skylla på sin berusning, och man kan inte heller "få" ett uppsåt p.g.a att man varit berusad. 
