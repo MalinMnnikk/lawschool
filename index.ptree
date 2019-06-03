@@ -1,8 +1,12 @@
 #lang pollen
 
-# Föreläsningar i Straffrätt VT19 
 
-◊(require (prefix-in criminal-law: "./Criminal-Law-2019/index.ptree"))
+◊(require (prefix-in criminal-law: "./2019-semester-4/Criminal-Law-2019/index.ptree"))
 
-index.html
-◊criminal-law:doc 
+◊(require (prefix-in tax-law: "./2019-semester-4/Tax-law-2019/index.ptree"))
+
+index-criminal.html
+◊criminal-law:doc
+
+index-tax.html
+◊tax-law:doc
