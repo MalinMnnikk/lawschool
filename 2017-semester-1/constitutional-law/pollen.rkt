@@ -16,7 +16,7 @@
   (let* ([headers (filter is-header? elements)]
          [toc (map header->li headers)]) 
     (list
-     (txexpr 'h1 '() (list "Juristprogrammet på Stockholms Universitet"))
+     (txexpr 'h3 '() (list "Innehållsförteckning"))
      (txexpr 'ul '() toc))))
 
 (define (is-header? element)

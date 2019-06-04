@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>◊(select 'h1 doc), by MalinMnnikk </title>
+  <title> Juristprogrammet på Stockholms Universitet by MalinMnnikk </title>
   <style type="text/css">
     body {padding: 3em; font-size: 20px; font-family: Helvetica; color: #1F1F23;}
     h1 {background: #F4EBFF; color: #473E61; padding: 10px;}
