@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Förläsningar i familjerätten 2018, by MalinMnnikk </title>
+  <title>◊(select 'h1 doc), by MalinMnnikk </title>
   <style type="text/css">
     body {padding: 3em; font-size: 20px; font-family: Helvetica; color: #1F1F23;}
     h1 {background: #F4EBFF; color: #473E61; padding: 10px;}
@@ -16,12 +16,16 @@
     span#prev {float: left;}
   </style>
 </head>
-<body> <h3>Innehållsförteckning</h3><ul><li><a href="#förläsningar-i-familjerätten-2018">Förläsningar i familjerätten 2018</a></li></ul><h1 id="förläsningar-i-familjerätten-2018">Förläsningar i familjerätten 2018</h1><p><a href="./test.html">Test</a></p>
+<body> ◊(->html doc #:splice? #t)
   <hr />
-<span id="prev">←
-<a href="corporate-law/index.html">Föreläsningar i Associationsrätt 2018</a>
-</span>
-<span id="next"><a href="property-law/index.html"></a> →
-</span>
+◊(define prev-page (previous here))
+◊when/splice[prev-page]{
+ <span id="prev">←
+ <a href="◊|prev-page|">◊(select 'h1 prev-page)</a>
+ </span>}
+◊(define next-page (next here))
+◊when/splice[next-page]{
+ <span id="next"><a href="◊|next-page|">◊(select 'h1 next-page)</a> →
+ </span>}
 </body>
 </html>
