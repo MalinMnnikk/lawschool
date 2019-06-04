@@ -2,15 +2,15 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>◊(select 'h1 doc), by MalinMnnikk </title>
+  <title>◊(select 'h2 doc), by MalinMnnikk </title>
   <style type="text/css">
     body {padding: 3em; font-size: 20px; font-family: Helvetica; color: #1F1F23;}
-    h1 {background: #F4EBFF; color: #473E61; padding: 10px;}
-    h2 {background: #473E61; color: #D9D0F5; padding: 10px;}
-    h3 {background: #473E61; color: #CBF5F2; padding: 10px;}
-    h4 {background: #473E61; color: #84AAFF; padding: 10px;}
-    h5 {background: #473E61; color: #AE8EEB; padding: 10px;}
-    h6 {background: #473E61; color: #FF828B; padding: 10px;}
+    h1 {background: #FF88B7; color: #2D162E; padding: 10px;}
+    h2 {background: #E86B8A; color: #2D162E; padding: 10px;}
+    h3 {background: #E8736F; color: #2D162E; padding: 10px;}
+    h4 {background: #FF88B7;color: #2D162E; padding: 10px;}
+    h5 {background: #E8736F; color: #2D162E; padding: 10px;}
+    h6 {background: #E86FDC; color: #2D162E; padding: 10px;}
     strong {color: #1F1F23;}
     span#next {float: right;}
     span#prev {float: left;}
