@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Testing constituational law, by MalinMnnikk </title>
+  <title>◊(select 'h1 doc), by MalinMnnikk </title>
   <style type="text/css">
     body {padding: 3em; font-size: 20px; font-family: Helvetica; color: #1F1F23;}
     h1 {background: #F4EBFF; color: #473E61; padding: 10px;}
@@ -16,9 +16,16 @@
     span#prev {float: left;}
   </style>
 </head>
-<body> <h3>Innehållsförteckning</h3><ul><li><a href="#testing-constituational-law">Testing constituational law</a></li></ul><h1 id="testing-constituational-law">Testing constituational law</h1><p>happy testing!</p>
+<body> ◊(->html doc #:splice? #t)
   <hr />
-
-
+◊(define prev-page (previous here))
+◊when/splice[prev-page]{
+ <span id="prev">←
+ <a href="◊|prev-page|">◊(select 'h1 prev-page)</a>
+ </span>}
+◊(define next-page (next here))
+◊when/splice[next-page]{
+ <span id="next"><a href="◊|next-page|">◊(select 'h1 next-page)</a> →
+ </span>}
 </body>
 </html>
