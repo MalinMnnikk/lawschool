@@ -7,7 +7,7 @@
     body {padding: 3em; font-size: 20px; font-family: Helvetica; color: #1F1F23;}
     h1 {background: #3F3E40; color: #FEFAFF; padding: 10px;}
     h2 {background: #FEFAFF; color: #3F3E40; padding: 10px;}
-    h3 {background: #BEBBBF; color: #7F7D80; padding: 10px;}
+    h3 {background: #BEBBBF; color: #3F3E40; padding: 10px;}
     h4 {background: #7F7D80; color: #ESE1E6; padding: 10px;}
     h5 {background: #FEFAFF; color: #7F7D80; padding: 10px;}
     h6 {background: #BEBBBF; color: #7F7D80; padding: 10px;}
