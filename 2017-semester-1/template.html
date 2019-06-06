@@ -5,8 +5,8 @@
   <title>◊(select 'h2 doc), by MalinMnnikk </title>
   <style type="text/css">
     body {padding: 3em; font-size: 20px; font-family: Helvetica; color: #1F1F23;}
-    h1 {background: #FFA59E; color: #473E61; padding: 10px;}
-    h2 {background: #FFA59E; color: #241C18; padding: 10px;}
+    h1 {background: #3F3E40; color: #FBF7FF; padding: 10px;}
+    h2 {background: #FBF7FF; color: #7E7C80; padding: 10px;}
     h3 {background: #FFC9AA; color: #CBF5F2; padding: 10px;}
     h4 {background: #473E61; color: #84AAFF; padding: 10px;}
     h5 {background: #473E61; color: #AE8EEB; padding: 10px;}
