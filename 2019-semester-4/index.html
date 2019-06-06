@@ -11,7 +11,7 @@
     h4 {background: #7F7D80; color: #ESE1E6; padding: 10px;}
     h5 {background: #FEFAFF; color: #7F7D80; padding: 10px;}
     h6 {background: #BEBBBF; color: #7F7D80; padding: 10px;}
-    strong {color: #1F1F23;}
+    strong {color: #272729;}
     span#next {float: right;}
     span#prev {float: left;}
   </style>
