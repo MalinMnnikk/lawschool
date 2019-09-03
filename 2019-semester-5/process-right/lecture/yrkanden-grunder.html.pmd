@@ -1,0 +1,221 @@
+#lang pollen
+
+# Yrkanden, grunder och processens ram i tvistemål
+
+2019-09-03 Henrik Bellander
+
+Henrik Bellander: civilprocesser, tvistelösning och forskning
+
+
+## Grundläggande principer
+
+1. Fri bevisvärdering och bevisföring
+2. Muntlighetsprincipen
+3. Omedelbarhetsprincipen
+4. Koncentrationsprincipen
+5. Dispositionsprincipen
+6. Förhandlings och kontradiktionsprincipen
+7. Officialprincipen
+8. principen Jura novit curia
+
+//
+
+* framgår indirekt från t.ex. vad som händer under processen
+* ha en tanke på förfarande, allting leder framåt --> dom --> verkställighet osv.
+* se principerna i ljuset av förfarandet
+
+#### Tvistemålsprocessen
+
+1. Stämningsansökan
+2. Förberedelse
+3. Rättegång
+4. Dom
+
+### Fri bevisvärdering och fri bevisföring 
+
+* absolut grundläggande
+* domstolen ska fritt värdera bevisen, parterna fria att lägga fram den bevisning man vill
+* motsatsen: regler som talar om vilket värde olika bevis har. t.ex. att vissa avtal ska gälla ska det stå på en förhandsbestämd blankett för att ha "fullt" bevisvärde
+* RB 35:1 och RB 35:7 (avvisning av bevisning)
+
+*muntlig, omedelbar och koncentrerad huvudförhandling - hänger ihop och säkerställer fri bevisföring*
+
+### Muntlighetsprincipen
+ 
+* RB 43:5 1 st
+* det som händer muntligen framför domstolen är det viktiga
+* motsats: skriftliga vittnesmål
+    * RB 36:16 st. 1 - muntligt i första hand, med medgivande sktiftligt
+
+### Omedelbarhetsprincipen
+
+* I praktiken sker ju rättegångar under ett ganska långt tidsintervall...
+* domstolen ska ha direkt tillgång till bevisen inte indirekt tillgång till materialet
+* dvs. se parterna, höra vittnen etc.
+* RB 17:2 - domen ska baseras på vad som framkommer under huvudförhandling.
+
+### Koncentrationsprincipen
+
+* huvudförhandlingen ska ske i ett *sammanhang* utan långa avbrott
+* minst 3 dagar/vecka om det överskrider en vecka
+* RB 43:11
+* man vill undvika en uppdelad förhandling
+
+### Dispositionsprincipen
+
+* motsvarar parternas materiella dispositionsrätt
+* skilj på dispositiva mål och icke-dispositiva mål
+* parterna väljer om de ska dra in ett krav --> väljer också vilka bevis och grunder som ska läggas fram
+* förlikning är möjligt (dispositiva mål)
+
+### Kontradiktions och förhandlingsprincipen
+
+* ska vara en tvåpartsprocess, kärande vs svarande
+* balansen ska komma från parternas egna tvekan
+* jfr. inkvisitorisk process där domaren "blandar sig i"
+* EKMR art 6
+* t.ex. RB 42:8 (förberedelse), RB 43:7 (huvudförhandlingen) och RB 36:17 (motförhör)
+
+### Officialprincipen och Jura Novit Curia
+
+* parterna disponerar inte över hur domstolen ska tillämpa den materiella lagstiftningen
+* domstolen känner rätten.
+* dvs parterna ska inte behöva kunna rätten, det är domstolens jobb.
+* RB 17:3 e contrario (parterna yrkar, parterna för fram) 
+
+* ex officio = i tjänsten
+* framförallt i indispositiva tvistemål 
+* domstolen får gå in och komplettera processen
+* RB 35:6
+* materiell processledning, RB 42:8 
+
+## Principernas koppling till de processuella pusselbitarna
+
+Alla stadier under huvudförhandlingen
+
+## Yrkanden och grunder i detalj
+
+### Kärandens yrkande
+
+* ganska intetsägande, ingen aning om vad som är tvistligt
+* men en självklar startpunkt
+* HR: talan ska väckas genom stämningsansökan, RB 13:4
+* RB 42:2 - innehåll i stämningsansökan
+
+Yrkande = uppmaning till domstolen att medge en viss dom.
+
+* flera yrkanden kan framställas alternativt, men då i prio. ordning
+
+Huvudtyper:
+
+**Fastställelsetalan** - domstolen ska uttala sig om rättsförhållande, om man har en materiell rätt eller inte, RB 13:2. **Positiv** - rättsförhållande består. **Negativ** - rättsförhållandet ska upphöra. 
+
+**Fullgörelsetalan** - RB 13:1 talan om åläggande för svaranden att fullgöra något... Kan också förplikta till ett underlåtande 
+
+Talan om rättsgestaltande dom, taleformer i den materialla rätten
+
+Varför fastställesletalan?
+
+* domen är inte verkställbar (exigibel)
+* förutsättningar för fullgörelsetalan kan saknas (förpliktelserna har inte förfallit ännu)
+* motparten kan ha framställt krav som bestritts, men motparten väcker inte själv talan
+* av processekonomiska skäl kan det finnas anledning för käranden att begränsa till talan till fastställelse t.ex. om bevisningen är dyr
+
+
+Fastställelse till yrkande:
+
+1. Fullgörelseskyldigheten har inte inträtt ännu
+2. Spara frågan om hur stor förpliktelsen är t.ex. hur stor ekonomiska skadan är (separera skadeståndsskyldighet iofs och hur stort skadeståndet ska bli)
+3. Bakomliggande frågan måste klargöras t.ex. inför framtiden
+
+### Svarandes inställning
+
+* RB 42:7
+* svarande ska tala om sin inställning till yrkande: antingen medge eller bestrida
+* svarandes yrkande = svaranadens begäran till rätten om att rätten ska ge en viss dom
+
+### Grunden
+
+Faktiska omständigheter = talar om vad tvisten egenltigen gäller. Yrkandet kan vara ett belopp eller föremål, här kommer grunden in.
+
+Inte den **rättsliga** grunden. Utan orsaken till varför man yrkar det man yrkar.
+
+*Rättsfakta* - faktiska omständigheter som leder till rättsföljder som kan bli föremål för yrkanden.
+
+jfr bevisfakta - omständigheter som inte är av omedelbar relevans för rättsföljden. Är inte samma sak som bevisning
+
+Svarande ska också ha en grund för bestridandet (i princip medgivande också men det är inte lika relevant)
+
+* ska presentera sina egna rättsfaktan eller säga vad som är fel med kärandes rättsfakta
+* förnekande/erkännande av omständigheter
+* åberopande av egna omständigheter t.ex. alt. händelseförlopp
+* åberopande av ytterligare omständigheter som påverkar rättsföljden (motfakta)
+* rättsinvändingar
+
+t.ex. tala om de konkreta omständigheterna som leder till vårdslöshet.
+
+## Processens ram
+
+* Yrkanden och Grunderna är nu "klara"
+* utmaning med att få rätt ettiket på omstädnigheterna, men viktigt att det ska bli rätt eftersom det påverkar vad partnerna får göra under tiden tills domen kommer
+* --> ramverk för hur yrkanden och grunder kan förändras under processens gång
+
+*Vad får parterna och domstolen göra med den talan som förs - under processens olika stadier*
+
+**HR: Domstolen är bunden av parternas yrkanden och grunder.**
+
+* RB 17:3 gäller dispositiva tvistemål.
+* målen förändras med tiden när/om de går vidare i instansordningen.
+* de delar som inte är tvistliga mellan parterna får domstolen inte pröva
+* t.ex. medgivande 10k kr, yrkande 25k kr --> processens ram där emellan
+
+### Förändring av talan
+
+* tystnda = bestridande (i svensk rätt), i praktiken svårt om man inte säger något för att grunda besteidande på
+* RB 13:3 st 1 HR Väckt talan får inte ändras
+* UND: 2 st. ursäktad att ändra talan. T.ex. följförpliktelse, tvistliga omständigheter  
+* 3 st : ändring beror på om man vill ändra saken eller inte. (se mer rättegångsseminarie)
+* 13:3 3 st. är inte helt problemfri
+
+* möjligt att *justera* talan (inte taleändring)
+* inskränkingar möjliga
+
+### Preklusion vid förberedelsen
+
+* RB 42:15
+* förberedelsestadiet är till för att parterna verkligen ska förbereda sig
+* om man jämt hitta på nya saker måste parterna måste börja förbereda pånytt
+* domstolen drar därför sträck för när man inte längre får föra in någonting nytt
+
+* RB 42:15a st 1 inga nya omständigheter om inte UND: p. 1 och p. 2
+* RB 17:2 om huvudförhandling har hållits, ska domen grundas på vad som förekommit vid förhandlingen (omedelbarhetsprincipen)
+* man måste säga allting som man skrivit under huvudförhandlingen (muntlighetsprincipen). Säger man däremot någonting annat än vad man skrivit så får domstolen kolla i papprerna om det verkligen handlar om nya omständigheter.
+
+### Överklaganden
+
+* RB 50:4 vad överklagan ska innehålla
+* om bara den ena överklagar är ramen ny för överklagandeprocessen
+* motsvaraden RB 55:3 HD
+
+HovR och HD kan meddela bara partiellt överklagande - dvs bara vissa frågor kommer upp i nästa instans andra vinner laga kraft
+
+Således: ramen ändras under processens gång, och blir ofta snävare hand efter
+
+När allting är klart så kan man släppa förfarandetanken - domstolen har nu hela bilden som ska dömas. --> läsa materiella rätten och se om yrkanden är materiellt rätt (rättsföljder och rekvisit)
+
+Håll koll på de olika rubrikerna och etiketterna.
+
+SKilj mellan rättsfakta och bevisfakta
+
+### Domskälen:
+
+1. Yrkanden och insätklning - vad är medgivet?
+2. Grunder och invändingar - vilka omständigheter är ostridiga?
+3. Utredningen vilka tvistliga omständigheter är bevisade?
+4. Uppfyller dessa rättens rekvisit?
+5. Leder det till det yrkade rättsfäljden?
+
+
+
+
+
