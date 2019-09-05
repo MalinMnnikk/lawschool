@@ -1,0 +1,142 @@
+#lang pollen
+
+# I. Processens Struktur, rättegångshinder
+
+Gruppundervisningsfrågor HT2019
+
+# Fråga 1 
+
+## Begrepp och termer
+
+**Sakinvändning** = framställs av svaranden i syfte att käromålet ska *ogillas* (helt/delvis), RB 42:7 st. 1 p.3 - gäller i tvistemål 
+
+Finns tre olika slags sakinvändingar:
+
+* rättsinvänding (omständigheterna som kärande åberopar kan inte läggas till grund enligt gällande rätt)
+* förnekande (omständigheterna exsiterar inte, helt/delvis)
+* motfaktum (föreligger tillkommande omständigheter som gör att kärandes rättsfaktum saknar den rättsliga betydelsen den annars haft)
+
+**Domslut** = resultat av vad som materiellt är stiftat angående rättsföljd, och vad som yrkats av parterna i målet. t.ex. kan materiellt påföljden för brott vara fångelse eller böter, parten har yrkat på böter och ifall det materiellt fortfarande kan dömas ut böter (t.ex. det är ett tillräckligt ringa brott) så blir domslutet(/domen) böter.
+
+**Erkännade** = motsats till förnekande, svarande/tilltalade erkänner till de omständigheter som åberopas av motstående part
+
+**Åtal** = väckande av talan i brottmål, yrkanden som åklagare gör
+
+**Rekvisit** = krav för att en handling eller omständighet ska vara otillåtet
+
+**Käromål** = skrivelse som inleder tvistemål, motsvarar åtal i brottmål. Förenas med stämningsansökan, och ska innehålla t.ex. yrkanden och grunder, RB 42:2
+
+**Grund** = de omständigheter som föreligger enligt part som styrker yrkanden
+
+**Rättsfaktum** = direkt relevant omständighet + direkt relevans till rättsföljden som är knuten till yrkandet. Kan vara rättsgrundande, rättsupphävande eller rättsförändrande
+
+**Bestridande** = svarandet medger inte det som käranden yrkar (tvistemål) Innebär samtidigt en begäran om att rätten ska ogilla kärandens yrkanden. I princip är tystnad ett bestridande.
+
+**Medgivande** = svarande begär att rätten ska bifalla kärandes yrkande, motsvarar erkännande
+
+**Rättsföljder** = anknyter till reglernas eftersatts jfr påföljd
+
+**Yrkande** = begäran om att domstolen ska fatta ett visst avgörande
+
+**Inställning** = hur man förhåller sig till åtalet, käromålet eller svaromålet 
+
+**Svaromål** = svarandes talan i tvistemål. (RB 42:7)
+
+**Bevisfaktum** = medelbar relevans för rättsföljden, betydelse som bevis för en omdelbart relevant omsätndighet. Har betydelse genom sitt bevisvärde
+
+**Domskäl** = orsaken/grunden för domen 
+
+**Bevisning** =
+
+### Olles Brottmål
+
+* Åtal väcks för stölden/egenmäktigt förfatande på symaskinen
+* Yrkanden framställs i åtalet, Olle kan som målsägande yrka på att han har bättre rätt till symaskinen (civilrättsligt) och detta kan tas upp i samma mål som åtalet för stöld (RB 22:1-3)
+* Åklagaren ska meddela vilka rekvisit som uppfylls enligt brottsbeskrivningen i åtalet samt ange de rättsfaktum som styrker åtalet, samt vilka rättsföljder detta borde leda till 
+* Niclas har möjlighet att erkänna åtalet, eller förneka det, samt meddela hur han ställer sig till eventuell civilrättslig del
+* Niclas kan också ge en grund för sitt förnekande t.ex. sakinvändning
+* I rätten krävs någon form av besvisning och bevisfaktum som ger vägledning i bevisvärdet
+* Slutligen kommer rätten fram till domskäl, och ett domslut som baserar sig på skälen
+
+### Olles Tvistemål
+
+* notera att om det väcks åtal för brott kan civilrättsanspråken föras av åklagaren för målsägandet vägnar redan då t.ex. ang. skadestånd eller vem som har bättre rätt till ett föremål
+* Stämningsansökan från Käranden (Olle) sätter igång hela processen och skall innehålla hans yrkanden samt grunderna för dessa = käromål
+* Niclas har möjlighet att medge eller bestrida käromålet, även han ska presentera grund för åtminstone bestridandet (= svaromål) samt ange sakinvändning 
+* Rättsfaktum stöder bevisningen för käromålet/svaromålet
+* bevisfaktum ger bevisen ett värde
+* domskäl och slutligen domslut
+
+# Fråga 2
+
+Hänt:
+
+Ansökan om stämning: P yrkar att A ska betala 75 000 kr åt P.
+
+Grunden: P har lånat pengar åt A.
+
+Anna anges med en address i Stockholm.
+
+a. Forumfrågan i stämningsansökan:
+
+* innehållet i stämningsansökan RB 42:2 
+    * besätmt yrkande (ja)
+    * Grund för yrkande (frågan om det här handlar om en utförlig redogörelse)
+    * uppgift om bevis som åberopas (kanske lämpligt med ett skuldebrev?)
+    * Uppgifter som gör rätten behörig, om inte dettaa annars framgår --> P har meddelat att A bor i Stockholm vilket gör domstolen behörig baserad på den uppgiften.
+
+Uppgifter om rättens behörighet innkluderar forumfrågorna. (10 kap. RB) Svarandes hemvist styr.
+
+Svarande ska dock själv invända att talan väckts vid fel domstol, gör hen inte det är talan väckt vid rätt, RB 10:18
+
+b. Misstanke om fel i stämningsansökan 
+
+Således ska Tingsrätten gå på det som står i stämningsansökan, och ge isåfall svarande möjlighet att åberopa annan hemvist och få ärendet flyttat dit.
+
+* RB 42:4 2 st - ansökan skall avvisas om det är uppenbart att målet p.g.a. rättegångshinder inte kan tas upp till prövning. Här kan det inte sägas vara uppenbart.
+* om uppgiften kan anses som bristfällig kan rätten be kärande komplettera den enligt RB 42:3
+
+c. Avvisande av talan p.g.a forumfel
+
+* Här: händer vid muntlig förberedelse efter att A yrkat och fått anständ i målet
+* NJA 1997 s. 866 - part som beviljats anstånd enligt RB 32:3 med att avge svaromål anses ha bevarat sin rätt till att göra invänding enligt RB 34:2 (rättegångshinder, rätten är obehörig)
+
+Rätten ska konstatera att det råder ett rättegångshinder och att talan därför inte kan fortsätta i den domstolen utan måste isåfall väckas på A:s hemort. Invändingen har också gjorts i tid.
+
+# Fråga 3
+
+a. Fastställande av faderskap
+
+FB 1:5 Rätten ska fastställa faderskap genom dom om det genom genetisk utredning är utrett att mannen är barnets far.
+
+Yrkandet: förklara Sven far till August = fastställandetalan
+
+* FB 3:5 ska väckas av barnet, men kan alltid också väckas av modern
+* FB 3:9 rätten ska se till att frågan om faderskap blir tillbörligt utrett.
+* dessa fall är indispositiva, men det finns ett överhängade intresse av att *rätt* man blir fastställd som far till barnet (dvs. bara den biologiska fadern ska bli fastställd som sådan)
+* Faställelsetalan, RB 13:2, ska tas upp till prövning om det råder ovisshet i rättsförhållandet. Här är inte faderskapet bestämt, vilket gör att det råder ovisshet om rättsförhållandet mellan August och Sven
+
+b. Väckande av talan mot tredje man
+
+* A och B har ett avtal - B och M har ett leveransavtal som påverkar A och B:s avtal - A väcker talan mot M och yrkar omedelbar leverans (fullgörelsetalan, RB 13:1). A och M har dock inte direkt något förhållande.
+* NJA 1984 s. 215 talan som väcktes av A som förplikatde B att betala till C, utan speciella omständigheter, avvisades.
+* Rätten  bör avvisa talan eftersom A inte är part i rättsförhållandet som kan bli tvistligt
+
+# Fråga 4
+
+* misshandel av normalgraden har ett straffvärde på fängelse i högst två år, BrB 3:5. Vid ringa misshandel böter eller fängelse högst 6 månader.
+* RB 46:15-15a: om saken kan utredas tillfredsställande, och det inte finns anledning till högre straff än böter eller fängelse i 6 mån får målet avgöras trots den tilltalades utevaro
+* ska dock i kallelesen meddelas att saken kan avgöras i den tilltalades utevaro, RB 45:15
+* målet kan avgöras i Daniellas utevaro om hon meddelats om detta i kallelsen och det inte finns anledning till att döma ut ett högre straff än 6 mån fängelse
+* dock har åklagaren yrkat på misshandel, och Daniella påstår självförsvar vilket gör att en dom i Daniellas utevaro inte bör ske.
+
+# Fråga 5
+
+Får rätten meddela treskodom?
+
+* RB 44 kap.
+* RB 44:4 om en part uteblir från huvudförhandlingen tillämpas 44:1-3.
+* om det har förelagts att tredskodom kan komma att meddelas kan en sådan meddelas om motparten (Andres) yrkar på det. Om inte det yrkas, ska målet avskrivas.
+
+
+
