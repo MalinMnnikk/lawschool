@@ -50,22 +50,55 @@ Finns tre olika slags sakinvändingar:
 
 ### Olles Brottmål
 
-* Åtal väcks för stölden/egenmäktigt förfatande på symaskinen
-* Yrkanden framställs i åtalet, Olle kan som målsägande yrka på att han har bättre rätt till symaskinen (civilrättsligt) och detta kan tas upp i samma mål som åtalet för stöld (RB 22:1-3)
-* Åklagaren ska meddela vilka rekvisit som uppfylls enligt brottsbeskrivningen i åtalet samt ange de rättsfaktum som styrker åtalet, samt vilka rättsföljder detta borde leda till 
-* Niclas har möjlighet att erkänna åtalet, eller förneka det, samt meddela hur han ställer sig till eventuell civilrättslig del
-* Niclas kan också ge en grund för sitt förnekande t.ex. sakinvändning
-* I rätten krävs någon form av besvisning och bevisfaktum som ger vägledning i bevisvärdet
-* Slutligen kommer rätten fram till domskäl, och ett domslut som baserar sig på skälen
+* **Materiell rätt** / rättsregel
+   * Rättsföljd: döms för egenmäktigt förfarande till böter eller fängeöse högst ett år BrB 8:8
+* Rekvisit (abstrakt rättsfakta)
+   * A1-B2
+* Åklagaren - Åtalet
+   * Yrkanden: fällas till ansvar enligt gärningsbeskrivningen
+   * Grund: konkret rättsfakta
+* Tilltalades talan
+   * Inställning: bestrida eller medge ansvar
+   * Grund: konkret rättsfalta
+   * erkänner/förnekar omständigheterna (helt/delvis)
+* Dom
+   * Domslut: bifall/ogillar åtal
+   * är inte bunden av ett erkännande
+   * Domskäl: orsakerna 
+
+Civilrättsliga anspråk kan kombineras med det straffrättsliga.
 
 ### Olles Tvistemål
 
-* notera att om det väcks åtal för brott kan civilrättsanspråken föras av åklagaren för målsägandet vägnar redan då t.ex. ang. skadestånd eller vem som har bättre rätt till ett föremål
-* Stämningsansökan från Käranden (Olle) sätter igång hela processen och skall innehålla hans yrkanden samt grunderna för dessa = käromål
-* Niclas har möjlighet att medge eller bestrida käromålet, även han ska presentera grund för åtminstone bestridandet (= svaromål) samt ange sakinvändning 
-* Rättsfaktum stöder bevisningen för käromålet/svaromålet
-* bevisfaktum ger bevisen ett värde
-* domskäl och slutligen domslut
+* omständigheterna kan leda till flera olika sorters talan. Fastställesetalan/fullgörelsetalan beroende på vad Olle vill. --> viktigt att strukturera vilken sorts talan som det är frågan om.
+* Gåvolagen § 1 - fullbordad gåva är bindande (materiell grund för talan) Rättsföljd: Gåvoutfästelse är bindande -->
+* Yrkande (käromålet): TR ska förplikta N att till O utge symaskinen.
+* Rekvisit ("abstrakt rättsfakta"), 1 § GåvoL
+    * Gåvoutfästelse
+    * Gåvans fullbordan
+* Grund ("konkret rättsfakta")
+    * N har 2.9.2019 sagt åt O att han får symaskinen
+    * Symaskinen var i O:s besittning den 2.9.2019 varefter den olovligen rubbats 4.9.2019 av N
+    * bevistema - faktiska omständigheter som stöder konkreta rättsfakta 
+* Svaromål + inställning till yrkandet
+    * medge, eller (dispositivt mål - inget case om N medger)
+    * bestrida
+* Grund för bestridande ("konkret rättsfakta") 
+    * N stämning om fodran på symaskinen skulle kunna kumuleras med det här fallet (**genstämning**)
+    * Förnekar omständigheten att det fanns en gåvoutfästelse
+    * Kan erkänna att O hade besittning
+    * Kan också erkänna att han tagit symaskinen, men inte att detta var olovligt (**motfaktum, sakinvändning**) - dvs. det är inte ostridigt om N tagit symaskinen, utan om det varit olovligt.
+    * ostridigt = behöver inte föras bevisning.
+* Domslut
+    * Bifalla eller ogillar käromålet
+* Domskäl
+    * orsaken till domslutet
+
+Notera att domstolen är här bundna av de rättsfaktum som parterna åberopar och kan inte hämta in egen bevisning.
+
+Viktigt att hålla koll på vilka **grunderna** är. Man kan inte slarva, eftersom det t.ex. finns prekluderingsrisk. = beskrivning av verkligheten som uppfyller rekvisiten. 
+
+Koppla rekvisit mot faktiska omständigheter
 
 # Fråga 2
 
@@ -80,14 +113,16 @@ Anna anges med en address i Stockholm.
 a. Forumfrågan i stämningsansökan:
 
 * innehållet i stämningsansökan RB 42:2 
-    * besätmt yrkande (ja)
+    * bestämt yrkande (ja)
     * Grund för yrkande (frågan om det här handlar om en utförlig redogörelse)
     * uppgift om bevis som åberopas (kanske lämpligt med ett skuldebrev?)
-    * Uppgifter som gör rätten behörig, om inte dettaa annars framgår --> P har meddelat att A bor i Stockholm vilket gör domstolen behörig baserad på den uppgiften.
+    * Uppgifter som gör rätten behörig, om inte detta annars framgår --> P har meddelat att A bor i Stockholm vilket gör domstolen behörig baserad på den uppgiften.
+
+RB 33:1 - rätten ska delge 
 
 Uppgifter om rättens behörighet innkluderar forumfrågorna. (10 kap. RB) Svarandes hemvist styr.
 
-Svarande ska dock själv invända att talan väckts vid fel domstol, gör hen inte det är talan väckt vid rätt, RB 10:18
+Svarande ska dock själv invända att talan väckts vid fel domstol, gör hen inte det är talan väckt vid rätt, RB 10:18 (dispositiva forumregler, indispositiva Rb 10:17)
 
 b. Misstanke om fel i stämningsansökan 
 
@@ -100,6 +135,8 @@ c. Avvisande av talan p.g.a forumfel
 
 * Här: händer vid muntlig förberedelse efter att A yrkat och fått anständ i målet
 * NJA 1997 s. 866 - part som beviljats anstånd enligt RB 32:3 med att avge svaromål anses ha bevarat sin rätt till att göra invänding enligt RB 34:2 (rättegångshinder, rätten är obehörig)
+* tolkningsfråga som går att tolka restriktivt eller extensiv tolkning
+* beror på vem parterna är, individer = extensivt ofta 
 
 Rätten ska konstatera att det råder ett rättegångshinder och att talan därför inte kan fortsätta i den domstolen utan måste isåfall väckas på A:s hemort. Invändingen har också gjorts i tid.
 
@@ -111,16 +148,18 @@ FB 1:5 Rätten ska fastställa faderskap genom dom om det genom genetisk utredni
 
 Yrkandet: förklara Sven far till August = fastställandetalan
 
-* FB 3:5 ska väckas av barnet, men kan alltid också väckas av modern
-* FB 3:9 rätten ska se till att frågan om faderskap blir tillbörligt utrett.
-* dessa fall är indispositiva, men det finns ett överhängade intresse av att *rätt* man blir fastställd som far till barnet (dvs. bara den biologiska fadern ska bli fastställd som sådan)
-* Faställelsetalan, RB 13:2, ska tas upp till prövning om det råder ovisshet i rättsförhållandet. Här är inte faderskapet bestämt, vilket gör att det råder ovisshet om rättsförhållandet mellan August och Sven
+* FB 3:5 talan ska **väckas** av barnet, men talan **kan** föras av modern
+* här föreligger rättegångshinder eftersom modern inte kan väcka talan. 
+
 
 b. Väckande av talan mot tredje man
 
 * A och B har ett avtal - B och M har ett leveransavtal som påverkar A och B:s avtal - A väcker talan mot M och yrkar omedelbar leverans (fullgörelsetalan, RB 13:1). A och M har dock inte direkt något förhållande.
 * NJA 1984 s. 215 talan som väcktes av A som förplikatde B att betala till C, utan speciella omständigheter, avvisades.
 * Rätten  bör avvisa talan eftersom A inte är part i rättsförhållandet som kan bli tvistligt
+* A har inte talrätt - talan ska avvisas
+
+Påståendedoktrinen = grund för talerätten 
 
 # Fråga 4
 
