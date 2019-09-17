@@ -1,0 +1,80 @@
+#lang pollen
+
+# Tillfälle 4 - Summarisk process och Säkerhetsåtgärder i tvistemål
+
+Summarisk process - meningen är att få en exekutionstitel så att man slipper tvist vid en domstol. 
+
+## Fråga 8
+
+a. Hur ska L ansökan handläggas?
+
+* Lagrum: **lag om betalningsföreläggande och handläggning** (BFL)
+* KFM:
+    * 31 § - bestridande ska ske skriftligen
+    * **42 §** - sker inte detta i tid ska KFM meddela utslag
+* Kontradisktionsprincipen gäller eftersom det är en ingripande myndighetsåtgärd ( § 26, parten ska meddelas att ärendet kan avgöras utan dennes bestridande)
+* viss skyddsmekanism: § 23 - vidhållande av yrkandet (om någonting inte står helt rätt till så behandlar KFM ansökan som bestidd och svaranden kan ta saken till domstol)
+
+b. I rätt tid bestrider
+
+* formkrav: skriftligt, § 31 
+* motivering/grunder: § 26 ange yrkande, blank = bestridande (ingen kompletteringskrav). Om svarande inte anger grund spelar det inte roll för KFM men det kan få betydelse i TR eftersom de är intresserade av grunden ( --> 42 kap. RB om kompletteringsföreläggande + treskodomsäventyr (om blank))
+* konsekvenser: § 33 underrättelse om bestridande, § 34 begära överlämnande inom 4 veckor, vidhåller man inte/begär inte överlämnande --> § 37 målet avskrivs
+* kan tas upp igen eftersom det inte är prövat i sak
+* väldigt förenklad process 
+
+## Fråga 9
+
+a. Hyresvärden få ut hyresgästen och få ut förfallen hyra
+
+* § 3 p. 1 - **vanlig handräckning** ang att få ut hyresgästen
+* förfallen hyra = penningfordran --> **betalningsföreläggande** § 2
+* "väsentligen samma grund" = kumulation, § 13
+* § 14 utveckla grunden (formkrav)
+*  --> exekutionstitel, vill ha utslag hos KFM (motsvarar dom i domstol) (om man inte vill ha - § 16)
+
+b. Hyresgästen hade inte hyresavtal
+
+* --> **särskild handräckning**, § 4 p.1, "egenmäktningen rubbats"/"annan olovlig åtgärd", (avlägsnande, inte avhysning)
+* KFM prövar inte vem som har materiell rätt, § 38 --> (handläggning)
+* proportionalitetsprincipen, § 43 
+* överklagan enligt § 55
+
+
+Skillnad: i vanlig handräckning = tidigare rätt (någongång räcker)
+särskild = aldrig haft någon materiell rätt
+
+## Fråga 10
+
+
+### Kvarstad
+
+* what to do (sabotage risk)
+    * 15:1 RB förutsättningar för kvarstad
+    * 3 häftet s. 26-27, 6 rekvisit:
+
+1. Fordran = penningfordran, förfallet åtminstone när TR meddelar dom
+2. Säkerhet för fordran, RB 15:6 --> UB 2:25 om säkerhetens beskaffenhet, ska prövas av rätten eller godkännas av motparten. 
+3. Sannolika skäl för fordran = vinna en framtida rättegång + domstolen gör prognos, eller: sannolikt att anspråket exsisterar (enligt strikt tolkning) 
+4. Sannolika skäl för sabotagerisk = abstraktfara är o.k. men en konkretisering av vad faran gäller behövs. Kvarstadsgrundande åtgärden ska vara klandervärd. RB 15:2. 
+5. Motparten ställer inte säkerhet, RB 15:8 (ska inte vara uppfylld, annars lite onödigt med kvarstad)
+6. Proportionalitet (ändamålet, tidshorisonten, skadeverkningarna ...)
+
+Praktiskt? UB 16:13 --> 
+
+--> **provisorisk åtgärd** (jmf med häktning). Långsiktigt ändamål är att få betalt och rätt verkställighet.
+
+--> kvarstadsbeslut = inom en månad väcka talan i saken, RB 15:7 (annars inte provisorisk)
+
+### Interimistiskt
+
+* beslut innan ansökan kommuniceras med motparten
+* t.ex. då detta kan trigga att motparten verkställer sabotagen (fara i dröjsmål)
+* **kvalificerad dröjsmål** (s. 19 i rättsfallskompendiet)
+    * RB 15:5 3 st. 
+
+* Förutsättningar för att lyckas (se krav för kvarstad)
+
+
+
+

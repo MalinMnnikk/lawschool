@@ -1,0 +1,214 @@
+#lang pollen
+
+# Tvångsmedel
+
+2019-09-17 Simon Andersson
+
+## Särskilda Principer för tvångsmedel
+
+1. Ändamålsprincipen
+2. Behovsprincipen
+3. Proportionalitetsprincipen
+
+* finns många oreglerade områden, och då är dessa principer fundamentala
+* speciellt detaljer ikring tvångsmedel kan vara lite oklara --> falla tillbaka på principerna
+
+### Ändamålsprincipen
+
+* härleds ur RF 2:21
+* innebär att tvångsmedel får användas enbart för de i lagstiftningen angivna syftena
+* lagen ska fastställa ändamålen med lagstiftning som kränker rättigheterna i RF -  för något som går utöver ändamålet kan man alltså inte använda lagrummet eftersom det strider mot ändamålsprincipen
+* Innebär förbud mot att använda tvångsmedel i syfte att få fram överskottsinformation =
+    * t.ex. husransakan får inte användas för att utreda ett annat brott än det man har husransakan för.
+    * att hitta överskottsinformation är o.k. men syftet får inte vara att hitta det
+
+### Behovsprincipen
+
+* inget tydligt lagstöd men anses vara en del av en rättsstat (nödvänighet, necessity)
+* tvångsmedel o.k om det är nödvändigt för att uppnå syftet, räcker ett mildare?
+
+### Proportionalitetsprincipen
+
+* balans mellan skadan och nyttan
+* skiljersig lite från behovsprincipen
+* ska användas vid alla tvångsmedel, lagstöd kanske finns men är det proportionerligt?
+* uttrycks i 24-26 kap RB 
+
+## Typiskt lagrum
+
+* tvångsmedlets namn
+* i vilka syften det får användas
+* beviskrav (oftast skälig misstanke)
+* föreskrivet minimistraff
+* ev. vilket straff som det individuella brottet ska leda till
+* ev. ytterligare rekvisit t.ex. "synnerlig vikt"
+
+# Frihetsberövande: gripande, anhållande, häktning
+
+Hur misstänkt är man?
+
+**Ej misstänkt** RB 23:9 st 1 p. 1 --> 6h Förhör med polis
+
+**Kan misstänkas** RB 23:9 st. 1 p. 2 --> 6h + 6h Förhör med polis ("synnerlig vikt")
+
+**Skäligen misstänkt** RB 23:9+24:7 --> Gripen (polis) 6h+6h --> Anhållen (åklagare) 3 dagar RB 24:6 + 24:12 --> Häktning (rätten) 1 vecka, RB 24:3+19
+
+**Sannolika skäl** Gripen --> Anhållen (åklagare) --> Häktad (rätten) obegränsat, men obs behov och proportionalitet (RB 24:1/24:2)
+
+Polisen får gripa den som åklagaren kan anhålla. Åklagaren kan anhålla den som kan häktas. Polisen ska därför fråga om det finns häktningsskäl.
+
+## Häktning
+
+RB 24:1 st. 1 (HR) en misstänkt *får* häktas om:
+
+* misstänkt på sannolika skäl (beviskrav)
+* för  brottet föreskrivet ett års fängelse eller mer (tolka: 1 års fängelse eller mer INGÅR i straffskalan, inte minst 1 år) 
+* finns risk för minst ett av nedanstående:
+
+1. Avviker (**Flyktfara**)
+2. Undanröjer bevis (**Kollusionsfara**), ganska lätt att uppnå detta 
+3. Fortsätter begå brott (**Recidivfara**), kan vara samma brott eller liknande 
+
+--> särskilda häktningsskäl
+
+**Häkteslagen** (2010:611) 6 kap. om restriktioner. (praktiska regler om häktningen)
+
+* restriktioner begränsar vad personen får göra i häktet
+* t.ex. kollusionsfara --> restriktioner för att hindra att hen t.ex. tar kontakt med vittnen via telefon eller internet. T.o.m inte få prata med andra personer i häktet (=isolering) 
+
+### Obligatorisk häktning
+
+* RB 24:1 st 2. *skall* häktning ske om:
+* misstänkt på sannolika skäl (beviskrav)
+* för brottet föreskrivet minst 2 års fängelse
+* inte *uppenbart* att skäl för häktning saknas.
+
+--> presumeras häktningsskälen vara uppfyllda.
+
+### Häktning enligt RB 24:2
+
+* häknting i två fall vid lindriga brott (oberoende av brottet beskaffenhet)
+
+1. misstänkte är okänd och vägrar lämna uppgift om ID eller ljuger
+eller,
+2. om den misstänkte inte har hemvist i Sverige och flyktfara finns
+
+* kräver sannolika skäl misstänkt
+* sällan proportionerligt (oberoende) om straffet bara är penningböter (JO)
+
+### Utredningshäktning, RB 24:3
+
+* häktning på skälig misstanke om förutsättningarna i övrigt enl. 1 § är uppfyllda och det är av synnerlig vikt att den misstänkte tas i förvar
+* häktas 1 vecka, därefter måste man uppnå sannolika skäl, annars släppas RB 24:19
+
+## Anhållande, RB 24:6
+
+* skäl för häktning = den misstänkte får anhållas i avvaktan på rättens prövning
+* viktigt att komma ihåg: syftet är att senare häkta. Om åklagaren inte avser häktning ska anhållning inte ske
+* inte fulla skäl till häktning, men personen är åtminstone skäligen misstänkt får anhållande ske om det är av synnerlig vikt. (st. 2)
+
+## Gripande, RB 24:7
+
+* om det finns skäl för anhållande
+* i princip alltså skäl för häktning
+* inte proportionerligt för penningböter
+* Gripen endast 6h+6h - efter släpps eller anhållen (reglerna för förhör eftersom det inte finns skilt för gripande)
+* "envar" får gripa den som "på bar gärning eller flyende fot" begått brott som kan ge föngelse (st. 2)
+
+## Allternativ till häktning, 25 kap RB
+
+**Reseförbud** = förbjuds att lämna anvisad vistelseort
+
+**Anmälningsskyldighet** = den misstänkte på vissa tider ska anmäla sig hos anvisad polismyndighet
+
+* kräver skälig misstanke för brott varpå fängelse kan följa
+* används sällan
+
+## Kvarstad
+
+* 26 kap RB = användas för att säkra betalning av böter, förverkad egendom, ersättning till målsägande
+* kräver skälig misstanke om brott
+* används mer inom ekonomisk brottslighet
+* belsutas av rätten. I avvaktan på beslut kan åklagaren eller polis ta egendom i förvar ( 2 §)
+
+## Beslag, RB 27:1-14a
+
+* föremål som kan skäligen antagas (beviskrav):
+    * äga betydelse för utredning om brott
+    * bara genom brott någon avgänt
+    * p.g.a brott förverkat
+
+* vissa undantag för skriftliga handlingar bl.a mellan närstående
+* den drabbade kan begära rättens prövning av beslaget
+
+### Hemliga tvångsmedel
+
+* *avlyssning* = "avlyssnar" innehållet i telefonsamtal, mejl, sms
+* *övervakning* = utan att se innehållet, övervakar vem som kommunicerar med vem t.ex. tömma telemaster för att se vilka mobiler som funnits i området viss tid
+
+* kräver skälig misstanke und. synnerlig vikt att identifiera skäligen misstänkt
+* avlyssning = minst 2 års fängelse
+* övervakning = minst 6 mån fängelse
+* rätten beviljar tillstånd
+* offenltigt ombud
+* överskottsinformations reglerat i RB 27:23a
+
+### Hemlig kameraövervakning, RB 27:20 a-c
+
+* HR: skälig misstanke
+* HR: 2 års fängelse
+* brottsplatsen och dess omgivning får dock övervakas innan någon är skäligen misstänkt
+* def. **fjärrstyrd** kamera dvs. handhållen faller inte under här
+
+### Hemlig rumsavlyssning (buggning)
+
+* RB 27:20 d-e - tidigare speciallag
+* kräver skälig misstanke
+* minst 4 års fängelse (HR)
+* synnerlig vikt för utredningen
+* får ske på plats där det finns särskild anledning anta att den misstänkte kommer att uppehålla sig (eller synnerlig anledning anta) om annans bostad
+
+
+## Husrannsakan, RB 28 kap.
+
+* genomsöka hus, rum eller förvaringsställe efter föremål som kan tas i belsag/förvar eller för att hitta bevis
+* skälig misstanke (HR) för fängelsebrott
+* UND: där brottet begåtts eller om den misstänkte gripits där eller om det finns synnerlig anledning att hitta ovan nämnda föremål (28:1 st. 2)
+* Reell = syftar till att söka föremål
+
+Personell ( 2 § + 2a)
+
+* eftersokande av person som ska frihetsberövas, hämtas till förhör, kroppsvisiteras etc.
+
+### I lokal, 3 §
+
+* räcker med anledning att anta att brottet begåtts där
+* lokaler som ej är tillgängliga för allmänheten men som används gemensamt av personer som kan antas ägna sig åt brottslig verksamhet
+
+## Kroppsvisitation, RB 28:11
+
+* söka igenom kläder och föremål på en person
+* kräver skälig misstanke
+* UND: synnerlig anledning att påträffa dessa föremål
+* kompletterande regler i PolisL
+
+## Kroppsbesiktning, RB 28:12
+
+* mer ingripande
+* misstanke om brott varpå fängelse kan följa
+* skäligen misstänkt
+* får även göras på annan än skäligen misstänkt i syfte att underlätta identifiering
+
+Betydelsen av frivillighet?
+
+* kan man i praktiken säga nej åt polisen om de ber en frivilligt gå med på en tvångsåtgärd?
+* husransakan kan inte ske p.g.a samtycke (RB 28:1)
+* frivillighet ska inte som HR användas för att kringå lagreglerna ang. tvångsmedel
+
+
+## Generellt om tvångsmedel
+
+* dokumentation (RB 23:21 st. 1 + Fuk 20§) 
+* måste ske inom ramen för en förundersökning
+* "spaning" är oreglerat, t.ex. fotografering 
+
