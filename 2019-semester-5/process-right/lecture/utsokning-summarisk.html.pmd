@@ -1,0 +1,226 @@
+#lang pollen
+
+# Utsökningsrätt och summarisk process
+
+2019-09-18 Karin Hallsten
+
+Bok: specialprocessrätt
+
+## Summarisk Process
+
+### KMF arbetsuppgifter
+
+1. Indirivning och summarisk process
+    * borgenären vill ha betalt av en trilskande gäldenär
+    * Dom i TR --> ingen betalning --> exekutionstitel och utsökning --> KFM + utmätning
+    * Summarisk process --> utslag --> KFM + utmätning
+2. Tillsyn i konkurs, se föreläsning 20.9 
+3. Skuldsanering
+4. Förebyggande verksamhet: information om t.ex. skuldfällor
+
+### I tvistemål
+
+= förenklad processform för att få en exekutionstitel som senare kan verkställas
+
+* snabbt, enkelt och billigt för sökande (borgenären)
+* lag (1990:746) om betalningsföreläggande och handräckning (BFL)
+* framförallt bra och menade för ostridiga krav. Problemet är ofta att gäldenären inte har några pengar.
+
+#### Process
+
+**Summarisk**
+
+1. inleds i KFM
+2. syfte: otvistliga mål
+3. Skriftligt
+3. Billigt och snabbt
+4. ingen bevisning
+5. ingen processledning
+7. Exekutionstiteln = utslag
+
+JMF
+
+**Ordinär**
+
+1. inleds i TR
+2. Syfte: tvistliga
+3. Muntligt, dyrt, långsam
+4. bevisning
+5. processledning
+6. Exekutionstitel = dom
+
+
+Verkställigheten = utsökning.
+
+### BFL
+
+3 former av summariska processer i BFL:
+
+1. Betalningsföreläggande (avser bara pengar)
+2. Vanling handräckning (andra krav än pengar t.ex. avhysning, återlämnande)
+3. särskild handräckning (olovliga former av besittningsrubbningar)
+
+### Betalningsföreläggande
+
+* ansökan om att svarande ska betala en penningfordran som är förfallen till betalning, om förlikning är tillåten, § 2 BFL
+    * penngingfordran = t.ex. förfallna fakturor, skuldebrev, skadeståndskrav
+* delges svaranden, 29 § BFL
+* svarande ska yttra sig inom en viss tid, normalt 2 veckor, 25 § BFL
+* inget bestridande/inget svar = utslag, 42 §
+    * = exekutionstitel som kan verkställas UB 3:1 st. 1 p. 8
+    * utslag verkställs självmant av KFM, UB 2:1 st. 3
+
+Man måste skriva under ett papper att man godkänt KFM beslut som svarande, annars har man här också rätt att bestrida/återvinna KFM:s beslut (i praktiken)
+
+#### Svarande bestrider
+
+* skriftligen, 31 § BFL
+* inom utsatt tid --> sökande ska underrättas om det, 33 § BFL
+* sökande kan sedan vidhålla sitt yrkande och överlämnas till TR, 36 § BFL (blir sedan ett dispositivt tvistemål + Rb)
+* om sökande inte begär överlämnande --> **avskrivning** av målet, 37 § BFL
+
+Relation till 13:3 RB, kärandes möjlighet att ändra sin talan, är här tillämplig alltså kan kräande ändra sina yrkanden och grunder.
+
+#### Svarande bestrider inte, utslag har meddelats
+
+* svarande kan ansöka om återvinning, 52 § BFL (ansökan om återvinning av rättsmedel)
+* skriftligen och inom 1 månad, 53 § BFL
+* KFM överlämnar målet till TR, 54 §
+* fortsätter sedan som ett vanligt tvistemål MEN RB 13:3 är inte tillämplig här! Kärande (f.d. sökande) får inte längre ändra sin talan. 
+* principen är att om en svarande klagar ska man inte riskera att få mera problem i TR...
+
+### Vanlig handräckning
+
+* § 3 BFL
+* avser:
+    * s.k avhysning
+    * svarande ska fullgöra något annat än betalning
+
+### Särskild handräckning
+
+* 4 § BFL
+* återställande av rubbad besittning
+* någon har olovligen rubbat någon annans besittning, KFM beslutar ändast om det här.
+* KFM pröver inte vem som har den materiella rätten, kommer inte heller överlämnas till TR
+* utslaget har inte rättskraft med avseende på den materiella frågan, 65§ BFL
+
+
+## Utsökningsrätt
+
+Verkställigheten.
+
+Skydd för borgenärerna att i praktiken få det de har rätt till enligt dom. KFM hjälper med verkställigheten.
+
+### Verkställighet
+
+* UB 1:3
+* KFM handlägger målen
+* kan överklagas till TR, men KFM är fortfarande den som verkställer.
+
+### Två former av exekution
+
+**Generalexekution** = gäldenärens samtliga tillgängar tas i anspråk t.ex. konkurs
+
+**Specialexekution** = endast vissa tillgångar tas i anspråk, t.ex. utmätning
+
+### Utmätning eller konkurs?
+
+* prognosen: gäldenären är snart i konkurs (mindre meningfullt med utmätning)
+* utmätning ger viss förmånsrätt i den utmätta egendomen
+* Återvinning förekommer bara vid konkurs, 4 kap. KonkL
+* Konkurs förutsätter att gäldenären är insolvent, KonkL 1:2 st. 2
+* utmätningsförfarandet är ofta enklare.
+
+
+### Verkställighetsformer
+
+* Utmätning, 4 kap. UB
+    * viss egendom tas av gäldenären, säljs, och delas ut till borgenären/er
+* Utmätning av lön, 7 kap. UB
+    * månatliga pengaavdrag från lön
+* Avhysning. UB 16:1-9
+    * flytta ifrån en viss plats 
+* Avlägsnande, UB 16:10-10b
+* Verkställighet av naturprestation, UB 16:11-12a
+* Verkställighet av kvarstadsbeslut, UB 16:13-16
+
+### Enskilt eller allmänt åtal?
+
+* A-mål: offentligrättsliga fordringar, UB 1:6 st. 2
+* E-mål: civilrättsliga skyldigheter
+* Delvis olika regler...
+
+A- mål behöver inga exekutionstitlar, E-mål behöver det alltid
+
+UB är uppbyggt ändå så att målen ska behandlas lika
+
+### Exekutionstitlar
+
+* UB 3:1
+* vilka titlar som kan läggas till grund för verkställigheten
+
+HR: dom/utslag/beslut ska ha vunnit laga kraft, UB 3:3
+
+UND: UB 3:4, utan laga kraft:
+
+* betalningsdom får verkställas även utan laga kraft
+* utslag rörande betalningsföreläggande
+* tredskodom
+
+för att hindra att gäldenärer alltför mycket har möjlighet att dra ut på processen
+
+### Förfarandet
+
+1. ansökan om utmätning, utmätningsbelsut och säkerställande av utmätning
+2. Försäljning av utmätt egendom, kap 8 UB
+3. Fördelning av köeskillning samt utbetalning, kap 9-10 UB
+
+Snabbhet
+
+* p.g.a. sabotagerisk
+* medför förmånsrätt i.o.m beslutet, UB 4:30
+* Särkerställande av utmätningen ska i princip ske samtidigt som utmärningsbeslutet fattas, UB 6:1
+* försäljning av utmätt egendom ska ske utan dröjsmål, UB 8:3
+
+### Ansökan
+
+* UB 2:1
+* yrkad åtgärd, UB 2:2
+Ä sökanden svarar för förrättningskostnaderna
+
+### Efterforskningsskyldighet
+
+* UB 4:9 KFM
+    * utreda gäldenärens anställnings och inkomstförhållanden samt
+    * undersöka om gäldenären har utmätningsbar egendom
+* Detta sker genom
+    * utmätning på KFM:s kontor (efter registersökningar) och/eller
+    * utmätningsförrättning hos gäldenären
+
+Kontraditktion = processen är en tvåpartsprocess, ingen ska vara ohörd
+
+### Gäldenärens invändingar
+
+* hinder UB 3:21
+* svaranden t.ex. fullgjort sin förpliktelse, fordran åberopas till kvittning, göra gällande annat förhållande som rör parternas mellanhavande (t.ex. preskiption)
+
+### Tredjemansproblematiken
+
+* lös egendom i gäldenärens besittning = presumtion
+* kan brytas om det framgår att den tillhör annan
+* samma sak om gäldenärens egendom är någon annanstan - ska visas höra till gäldenären
+* UB 4:19 samägande eller make/maka/sambos egendom (ska igen framgår att egendomen tillhör den andre eller gemensamt)
+* NJA 2008:444 om föreläggande enl. UB 4:20
+* KFM kan utfärda stämningsföreläggande - 3M har rätt att väcka talan mot sökande(borgenären) och svarande (gäldenären) t.ex. om vem som har bättre rätt
+
+### Försäljning
+
+* inte förrän laga kraft UB 8:4 och 8:3
+* offentlig auktion, UB 9:2-7 eller under hand UB 9:8-9
+
+--> redovisning av influtna medel, UB 13:1
+
+
+
+
+
