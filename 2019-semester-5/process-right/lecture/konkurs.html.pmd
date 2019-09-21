@@ -1,0 +1,240 @@
+#lang pollen
+
+# Konkursrätt
+
+Karin Hallsten 2019-09-20
+
+En ända grund för konkurs: obestånd(insolvens)
+
+## Vad är en konkurs?
+
+Konkurslagen (KL) är en lag som innehåller både materiella och processuella regler
+
+Förfarande när en persons (fysisk/juridisk) alla tillgångar tas omhand under ordnade former och sedan fördelas till fordringsägare.
+
+Nödvändigt system för samhällsekonomin ... 
+
+* Tvångsförfarande, jfr KL1:2
+    * i någon mån frivilligt eftersom man kan frivilligt ansöka om konkurs. 
+* Rådighetsinskränkning
+    * personen förlorar kontroll över sina tillgångar 
+* **Generalexekution** (jmf. specialexekution)
+* efter en konkurs kvarstår gäldenärens skulder i den mån de inte blir betalda genom kursen
+    * jmf skuldsanering.
+    * syftet är endast att borgenärerna ska få betalt
+
+### Några begrepp
+
+* **borgenär** = fordringsägare
+* **gäldenär** = den som har skuld till borgenären
+
+### Aktuella bestämmelser
+
+1. Konkurslagen - materiella och processuella bestämmelser
+     * omfattande lag
+     * börja alltid här när det handlar om konkurs
+     * 16:2 KL --> hänvinging till RB om tvistemål
+2. Rättegångsbalken (RB)
+     * dispositiva reglerna gäller (som utgångspunkt)
+
+## Handläggning av en konkurs i domstol
+
+1. Konkursärende hos tingsrätten, KL 16:1
+     * RB:s bestämmelser i tillämpliga delar
+2. Rättens avgörande i konkursärende sker genom **beslut** (inte dom), KL 16:2 st. 3
+3. TR består av en lagfaren domare, KL 16:3 (får, inte ska, fakultativ regel)
+
+### Syfte
+
+* Avveckling (samlad)
+* Omhändertagande av alla gäldenärens tillgångar
+* fördela förlusterna proportionellt mellan borgenärerna
+    * likabehandlingsprincipen
+    * förmånsrättsordningen (se Förmånsrättslagen)
+* Borgenärskollektivets intressen ska tillgodoses
+* bekämpande av brottslighet
+    * förvaltaren har en skyldighet att anmäla t.ex. ekonomisk brottslighet 
+
+Exekutionstitel är bra att ha men inte nödvändigt som borgenär. 
+
+Fordringar före konkursbeslutet är de som omfattas av konkursen!
+
+Under konkursen = massafordringar (fordringar på boet)
+
+= ny juridisk person skapas (konkursbo) som konkursförvaltaren bestämmer över.
+
+Bara för att man som borgenär begär konkursen betyder inte att man först får betalt utan alla borgenärer behandlas lika. Vissa fordringar har dock förmånsrätter. 
+
+## Konkursgrunden **obestånd**
+
+**Obestånd** = insolvens
+
+= gäldenären inte rätteligen kan betala sina skulder i takt med att de förfaller till betalning och denna oförmåga inte endast är tillfällig, KL 1:2 st. 2
+
+**Insuffucuens** = skulderna överstiger tillgängarna
+
+**Sufficiens** = tillgångarna överskrider skulderna 
+
+Bristande likviditet kan leda till insolvens
+
+### Bevisbördan
+
+* uppgift av gäldenären att han/hon är insolvens ska godtas om det inte finns särskilda skäl att inte göra det, KL 2:7
+* borgenären måste *styrka* att gäldenären är på obestånd (bevisbörda på borgenären)
+    * styrkt är ett väldigt högt beviskrav, detta för att skydda individen eftersom konkurs är så ingripande åtgärd. 
+* presumtionsregler för obestånd, KL 2:8 och 2:9, om förutsättnignarna är uppfyllda presumeras gäldenären vara på obestånd (gör det lite lättare för borgenären)
+    * KL 2:8 - gäldenären visar tillgångsundersökning, andra borgenärer kan använda samma tillgångsundersökning för obestånd
+    * KL 2:9 -  gäller inte alla gäldenärer, och gäller borgenärEN inte borgenärerNA. 
+
+## Konkursansökan
+
+Vem kan ansöka om konkurs?
+
+**Gäldenär**, KL 2:3
+
+**Borgenär**, KL 2:4
+
+Forum:
+
+* ansökan om konkurs görs skriftligen vid den tingsrätt där gäldenären har att svara i tvistemål som angår betalningsskyldighet i allmänhet, RB 10:1, KL 2:1 st. 1
+
+Gäldenären som är juridisk person har ofta enligt ABL insitament att ansöka om konkurs själv. Gäldenärer som är fysiska personer vill ofta hellre ha skuldsanering. 
+
+### Gäldenärens konkursansökan
+
+* uppgift från gäldenären om insolvens ska som huvudregel godtas, KL 2:7
+* konkursansäkan ska prövas **genast** av rätten, KL 2:14 --> genast betyder genast. Gäldenären ska genast tappa rådigheten och konkursförvaltaren vidta åtgärder
+* förhandling ska som huvudregel inte hållas
+
+### Borgenärens konkursansökan
+
+Talerätt?
+
+* hur vet man att borgenären är en borgenär?
+
+
+* borgenären ska ange den fordran han åberopar till stöd för sin behörighet och grunden för att gäldenren ska försättas i konkurs, KL 2:4 (talerätt!)
+* borgenären ska styrka sin behörighet, KL 2:6 st. 3 om inte borgenärens fordran har fastställts av domstol eller av KFM med stöd av BFL. Ty i så fall ska detta godtas som stöd för behörighet att begära gäldenären i konkurs, även om avgörandet inte har vunnit laga kraft. (exekutionstitel)
+* upptas en borgenärens konkursansökan , ska rätten sätta ut en förhandling för prövning av ansökningen, KL 2:16 st. 1
+* förhandling ska hållas inom 2 vckor, KL 2:16 st. 2
+* gäldenären och borgenären kallas till konkursförhandling, vid vilken konkursfrågan prövas
+* Om borgenären uteblir från förhandlingen kan konkursärendet komma att avskrivas, KL 2:19 st. 1
+* om gäldenären uteblir från förhandlingen får konkursansökan prövas slutligt, KL 2:19 st.2
+* en konkursförhandling får skjutas upp av rätten på en parts begäran när det finns särskilda omständigheter, KL 2:20
+* rätten prövar först frågan om behörighet innan den prövar frågan om obestånd!!!
+
+
+### Ekonomiska rättsverkningar
+
+* konkursbeslutet gäller omedelbart, KL 16:4
+* gäldenären förlorar omedelbart rådigheten över egendom som tillhör konkursboet, KL 3:1 KL 3:3
+* upplysnings och närvaroplikt, KL 6:2
+    * gäldenären ska ge rätten, TSM och förvaltaren de upplysningar av betydelse för konkursen, st 1
+    * gäldenären ska på förvaltarens begäran närvara vid bouppteckningsförrättningen, st 2
+* näringsförbud fär en gäldenär som är en fysisk person, KL 6:1
+* begränsad rörelsefrihet, KL 6:6
+    * t.ex. sedan konkursbeslutet har meddelats och innan bouppteckningsled har avlagts får gäldenären inte bege sig utomlands utan rättens medgivande, st.1 
+* pågående rättegångar, KL 3:9
+    * om det vid konkursen pågår rättegång mellan gäldenären och annan om egendom om tillhör konkursboet får konkursboet (genom förvaltaren) överta gäldenärens talan eller träda in i processen vid sidan av gäldenären.
+
+## Konkurslagens uppbyggnad 
+
+* enhetligt förfarande oavsett konkursens storlek
+    * men, olika regler i KL tillämpas i olika fall
+* ett snabbt och effektivt förfarande
+* aktörerna
+    * Konkursdomstolen
+    * Konkursförvaltaren och
+    * Tillsyndmyndigheten
+
+## Konkursförvaltaren
+
+= advokat som är specialiserad på konkurser. Ska ha särskild insikt och erfarenhet som uppdraget kräver samt även i övrigt vara lämplig för uppdraget, KL 7:1 st. 1
+
+* utses av rätten, KL 7:2
+* TSM ska höras över valet av förvaltare innan denne utses, KL 7:3
+* konkursförvaltaren ska tillvarata borgenärernas intressen och ta hand om avvecklingen av boet, KL 7:8
+* sköter hela förvaltningen, kap 7 KL
+* skadeståndsrättsligt ansvar, KL 17:1
+* bouppteckning, KL 7:13
+* förvaltarberättelse KL 7:15
+* underrätta åklagare om man misstänker brott, KL 7:16
+
+--> förfarandet ser annorlunda ut beroende på hur mycket pengar det finns i boet
+
+## Domstolen
+
+* TR första instans, KL 16:1
+* belsutar i konkursfrågan
+* tillsätter/entledigar förvaltare, KL 7:2 och 7:5 
+
+* håller edgångssammanträde, KL 6:3 och 6:4
+* säkerhetsåtgärder, KL 2:11-13
+* tvångsåtgärder, KL 6:6-13
+
+## Tillsynsmyndigheten
+
+* KL 7:25
+* övervakar konkursförvaltningen, KL 7:27
+* allmänna samrådesskyldighet
+* förvaltarens hörande, förvaltaren ska höra TSM i viktiga frågor , KL 7:10
+* "tillse att konkursutredningen inte fördröjs i onödan" KL 7:27
+
+## Återvinning, 4 kap KL
+
+återvinning = gå åter.
+
+= upprätthålla likabehandlingsprincipen
+
+motverkar otillbörliga transaktioner - ett skydd för borgenärskollektivet
+
+Återvinningsfristen räknas från den dag konkursansökan inkom till rätten, KL 4:2
+
+Otillbörlighetsregeln, KL 4:5
+
+Särskilda regler för medkontrahenter som är närstående, KL 4:3, 4:5 st. 2 och 3 samt 4:6
+
+Tvister: KL 4:19-20
+
+* ankommer på förvaltaren att påkalla återvinning. Vanligen väcker förvaltaren talan vid tingsrätt (dispositivt tvistemål) inom viss tid.
+
+## Avslut
+
+1. När rätten fastställer hur utredning till borgenärer ska ske i konkursen, KL 11:1 och 11:7
+
+eller
+
+2. om tillgångarna inte räcker till betalning av konkurskostnader och andra skulder, när rätten beslut om avskrivning av konkursen vinner laga kraft, KL 10:1
+
+## Överklagande
+
+* KL 16:5-9
+
+HR: varje TR belsut i ett konkursärende i en fråga som enligt KL prövas av rätten får överklagas för sig, KL 16:5
+
+* ett belsut av TR enligt KL 16:5 för överklagas hos HovR, inom 3 veckor (från kungörelse i Post och Inrikes Tidningar, KL 16:9)
+
+## Gången av en konkurs
+
+1. Borgenär eller gäldenär ansöker om konkurs
+2. KOnkursansökan prövas - rätten beslutar om konkurs eller ogilalr(avvisar) ansökan
+3. Om konkurs beslutas itser rätten en konkursförvaltare
+4. En ny juridisk person bildas - konkursboet
+5. Förvaltaren företräder och tar hand om konkursboet medan gäldenären förlorar rådigheten över sina tillgångar
+6. Förvaltaren går igenom gäldenärens alla tillgångar och skulder, identifierar borgenärer och gör en bbouppteckning. Upplysningsskyldighet
+7. Gäldenären avlägger i rätten bouppteckningsed
+8. Förvaltaren låter sälja boets egendom (så att resultatet blir så bra som möjligt för borgenärerna
+9. Förvaltaren försöker få in utestående fordringar i konkursboet
+10. Om det pågår rättegångar mellan gäldenären och annan tar förvaltaren ställning till om konkursboet ska engagera sig i dessa
+11. Förvaltaren tar ställning till om det skett otillbörliga transaktioner mellan gäldenären och någon borgenär så att borgenärskollektivet missgynnats
+12. Förvaltaren ger in förvaötarberättelse till TR och TSM
+13. Konkursen kan fortsätta utan att borgenärerna måste bevaka sina fordringar eller så måste de göra det (bevakningskonkurs)
+14. Utdelningsförslag och slutredovisning
+15. TSM yttrar sig
+16. Rätten prövar om utdelningsförslaget ska fastställas (inga tillgångar = avskrivningskonkurs)
+17. Genom avskrivningsbelsutet eller fastställandet av utdelning är konkursen avslutad
+18. Skulder som inte regleras genom konkursen kvarstår efter konkursen, relevant för privatpersoner. Den jurdidisk personen är ju nu "död"...
+
+
+
+
