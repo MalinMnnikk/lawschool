@@ -1,0 +1,217 @@
+#lang pollen
+
+# Rättegångskostnader
+
+2019-09-15 Henrik Bellander
+
+18 kap Rättegångsbalken
+
+Fokus här: tvistemål
+
+## Rättegångskostnadsproblemet för domstolen
+
+* olika perspektiv på problematiken beroende på ur vems synvinkel man ser saken
+* Vad som händer mellan stämningsansökan och dom är av relevans här
+* kärande och svarande är de som stor i fokus för frågan
+
+Ombudsarvodet = största kostnaden (oftast)
+
+Domstolens ställningstaganden?
+
+1. Vilken ram sätts upp av parternas yrkanden?
+    * om ingen part yrkar ersättning - prövar inte frågan
+2. Vilken rättslig ram följer av målets utgång? (vilken/vilka kostnadsregler aktualiseras)
+    * t.ex. avskrivning, avvisning etc.  påverkar 
+3. Vilken *kostnadsfördelning* leder det till mellan parterna?
+4. Vilka kostnader ska fördelas? (*kostnadsbestämning*)
+
+## Problemet för Parterna
+
+* Här får A 75' i sak + 30' i rättegångskostnadsersättning - 60' i kostnader = 45' i utfall
+   * dvs. en tvist som handlat om 100' har bara gett 45'
+* B ska betala 75' i sak, 30' åt A och sina egna kostnader på 40' = -145' i ett mål som handlade om 100'
+
+Nettokostnaden är den som är relevant alltså + osäkerheten i det här förfarandet...
+
+Ställningstaganden:
+
+bästa vs sämsta utfall
+
+1. Käranden kan som mest vinna 100' men kna som mest förlora lika mycket i rättegångskostnade (käromålet ogillas helt)
+2. Svarandens bästa utfall är +/-0 men svaranden kan som mest förlora 200' (käromålet bifalls)
+
+= För parterna handlar tvisten ofta lika mycket om att hantera risken för rättegångskostnader som om det man tvister om i sak...
+
+3. Vilka möjligheter finns det att finansiera de egna rättegångskostnaderna under målets gång?
+4. Vilka möjligheter finns det att finansiera ett ansvar för motpartens rättegångskostnader vid förlust?
+5. Vad händer om motparten förpliktas att ersätta rättegångskostnaderna men inte kan betala?
+
+### Rättsekonomiskt synsätt: förlikningsvilja och partskostnader
+
+* --> här kan parterna istället förlikas om att B ersätter A med 65'
+* lägre kostnader för båda, vardera parterna står för sina egna kostnader + snabbare
+* 9/10 av tvisterna löses redan här
+
+Förlikningsfaktorer:
+
+1. Om kärnaden bedömer risken för förlust är 25% - vad är de käranden villig att få betalt idag för att inte driva tvisten vidare?
+2. Om svaranden bedömer att risken för förlust är 25% - vad är svaranden då beredd att betala idag för att slippa process?
+
+= affärsmässigt motiverat för båda parterna att förlikas på beloppet 50 ' istället för att driva tvisten i domstol
+
+## Problemet för lagstiftaren
+
+
+Direkta kostnader för parter och domstol <--> förlikningsfrekvensen <--> Kostnaden för materiellt oriktiga avgöranden <--> Direkta kostnader för parter och domstol
+
+Vad är kostnaden för att parterna tar sin tvist utanför domstolen?
+
+Vad är felkostnaden?
+
+" Justice is open to all, just like the Ritz hotel"
+
+* formellt rättsskydd  = staten erbjuder medborgarna domstolar där deras individuella rättigheter skyddas enligt rättsstatliga principer m.m ("Justice")
+* Problem = inte tillgängligt för parter som saknar kunskaå eller ekonomsika förutsättningar
+
+* **reellt rättsskydd** (Access to Justice) =
+    * 1. Kunskapsmässiga och ekonomiska hinder undanröjs (t.ex. rättshjälpsförsäkringar)
+    * 2. också kollektiva, diffusa och fragmentratiska rättsliga intressen skyddas
+    * 3. också alternativ tvistlösning och näringslivets tvister omfattas av skyddet
+
+## Konkreta kostnadsproblem, RB
+
+### RB 18 kap. - en överblick
+
+Materiella regler = vad man ska göra med rättegångskostnaderna - kostnadsfördelning/kostnadsbestämning (§ 1-8a)
+
+Formella = hur processen ser ut, "egen processrätt" t.ex. yrkanden och grunder (§ 14-15)
+
+HR: § 1, 4 och 8 - samtliga kostnader fördelas mellan parterna utifrån den materiella utgången i målet, ansvar för den tappande parten 
+
+UND: § 2, 3, 3a, 5, 6-7, 8 a - där HR inte kan tillämpas t.ex. eftersom det inte finns någon dom, eller där alternativ till HR är möjliga
+
+Främst ett sätt att orientera sig - inte en absolut sanning. 
+
+§ 9-13 - specialfall (sällan aktuella)
+
+### RB 18:14 - parternas och rättens initiativ
+
+1. Yrkande och grunder krävs
+    * Yrkande = innan handläggningen avslutas! Vid dom = för sent. 
+    * Grund = uppge vad kostnaden består av
+2. Rätten tillämpar kostnadsreglerna ex officio ( st. 2)
+    * om inte obehövligt p.g.a särskilda omständigheter t.ex. svarande medger rättegångskostnaderna. 
+3. Men parterna kan disponera genom medgivanden och vitsordanden
+    * = särskilda omständigheter
+
+Probelm: frågan kommer upp sent i målet och det är först då som parterna ser varandras, och många gånger de egna, kostnaderna för målet (som ju kan ha tagit år...) 
+
+### RB 18:1 och 18:8 - HR
+
+1 § Part som tappar målet ska ersätta motparten hans rättegångskostnad, om ej annat är stadgat
+
+8 § Ersättning för rättegångskostnad ska fullt motsvara kostnaden för rättegångens förberedande och talans utförande jämte arvode till ombud eller biträde, såvitt kostnaden skäligen varit påkallad för tillvaratagande av partens rätt [...]
+
+Skriven med tanke på partens *egna* kostnader, medan det i verkligheten är ombudesarvode som är den största posten.
+
+Skälighetsprövning - ja = full ersättning, nej/delvis = ingen/delvis ersättning
+
+Skälighet = kam man kräva att ombud ska ha använt effektiva verktyg för att minska antalet timmar och således priset för ens egna tjänst?
+
+### RB 18:4 - parterna vinner ömsom
+
+Ger mest bekymmer när det gäller rättegångskostnader...
+
+Två situationer:
+
+1. Flera yrkanden (kumulation)  (st. 1) + parterna vinner ömsom
+    * Parterna bär sin egen kostnad ELLER
+    * ersättningen ska jämkas ELLER
+    * om ersättningen kan skiljas - ersättning enligt denna delning ELLER
+    * Ersättning fullt ut för den ena
+
+2. Ett yrkande som delvis vinner - samma regler
+
+Säger således ingenting om hur situationen ska lösas. Allting är möjligt.
+
+Vinnande part = den part som fått något belopp från den andra
+
+* Enligt förarbetena är processen nödvändig även om lägre belopp döms ut. Även med betydande prutning ansågs käranden som vinnande
+* Varför gynna käranden?
+* insitament för välbyggda mål och ordentlig bevisning
+
+Huvudregel: kan man särskilja kostnaderna, och hur har domstolen bedömt just i de delarna? --> fördelning enligt svaren här.
+
+**Tyngdpunkt** eller **proportionalitet** ?
+
+NJA 1973 s. 623
+
+* om tvisten gäller belopp som domstolen ska uppskatta anses parterna vunnit lika mycket när halva beloppet bifalls (proportionalitet)
+
+NJA 1978 s. 383
+
+* om kostnaderna möjliga att särskilja på olika delar ska kostnadsfördelningen följa utgången i de olika delarna
+
+NJA 1979 s. 567
+
+* om både belopp och betalningsskyldighet i sig är tvistigt ska frågan där tyngdpunkten ligger vara avgörande för fördelningen (tyngdpunktsprincipen) 
+
+NJA 1982 s. 804
+
+* om både belopp och betalningsskyldighet is ig är tvistligt men särskiljande ej kan ske ska kostnaderna fördelas proportionerligt
+
+Modifiering och exemplifiering av RB 18:4 - ordalydelsen ensam säger inte så många 
+
+## RB 18:8a - Småmål
+
+* mål där 1 kap 3 d § 1 st. tillämpas gäller 8a istället för 8
+* ersättning med normbeloppet oberoende egentliga kostnader 
+
+1. Tvisteföremålets värde mindre än 1/2 prisbasbelopp
+2. --> begränsning av ersättning till 1 h rådgivning 
+
+## RB 18:3 och 18:6 - försumlighet m.m
+
+Undantag från tappande parts betalningsansvar 
+
+1. Har kärande inlett process i onödan? // Processat på ett försumligt sätt? t.ex. inte sätt till att huvudförhandlingen blir effektiv 
+2. Har detta förfarandet lett till merkostnader?
+
+--> skyldighet för den vinnande att ersätta tappande parten för merkostnader, oberoende av hur resten av rättegångskostnaderna delas
+
+## RB 18:7 - ansvar för ombud
+
+1. Ska part ersätta kostnader?
+2. Har ombudet föranlett onödig process?
+3. Eller har ombudet processat på ett försumligt sätt?
+4. + har detta lett till merkostnader?
+
+--> ansvaret läggs solidariskt på ombudet .
+
+Förutsättning: ombudets part har fått kostnadsansvar
+
+RB 18:3 och 18:6 tillämpas väldigt sällan och det finns ingen praxis heller
+
+## Finansiering - statlig rättshjälp
+
+* rättshjälpslagen
+* max. årsinkomst (260 000 kr)
+* gäller endast om man inte har rättsskyddsförsäkring
+* utestänger alltså om man har försäkring eller borde ha haft försäkring
+
+## Rättsskyddsförsäkring
+
+* upp till försäkringsbolagen och kunden att komma överens
+* normalt ersätts bara de kostnader som inte täcks av motparten
+* ofta begränsat till vissa belopp
+* räcker ofta till att inleda en process, inte att följa den
+* förlikning ofta när man nått takbeloppet
+
+## Riskavtal
+
+* avtal med ombud om att ta ansvaret
+* regleras inte i RB kap 18 utan i vägledande regler om god advokatsed
+
+
+
+
