@@ -1,0 +1,85 @@
+#lang pollen
+
+# Förundersökning
+
+2019-09-09 Simon Andersson
+
+## Syfte
+
+* RB 23:2
+
+1. Utreda brott - RB 23:1
+2. Att utgöra underlag till åtalsprövning (tillräckliga skäl? Baserat på förundersökningsprotokoll)
+3. Att bereda målet för huvudförhandling
+4. Att utgöra substitut eller referens vid bevisupptagning/bevisvärdering (måste läsas upp så att det blir processmaterial, muntlighetsprincipen)
+    * RB 35:14 - om man inte *kan* hålla vittnesförhör
+    * RB 36:6 st. 2 - läsa upp om någon avviker från vad förundersökningen
+
+Innan dagens RB fanns ingen RB vilket b.la. ledde till långdraga förhandlingar.
+
+Nu: följer **koncentrationsprincipen**
+
+### Rättskällor
+
+* Rb 23 kap, Förundersökningskunggörelsen, PolisL (några få bestämmelser)
+* Författningssamlingar för polis och åklagare (interna regler om vad man ska göra)
+* praxis: NJA (lite) + JO-uttalanden (men väldigt individuella fall, sällan generellt tillämpligt)
+    * kräver ju dock för NJA att åklagaren är säker på hur lagen ska tolkas för att t.ex. åtala för tjänstefel.
+* Doktrin
+* Problem: torftig lagstiftning + motiv, begränsad doktrin, in-casu prejudikat
+
+10 % av alla anmälda brott kommer till domstolen. Är den huvudsakliga beslutsfattaren polisen och åklagaren - inte domstolen? 
+
+## Beviskrav
+
+a. Anledning att anta, RB 23:1
+b. Kan misstänkas, RB 23:9
+c. Skäligen misstänkt, RB 23:18, 28:1
+d. Sannolika skäl, RB 24:1
+e. Tillräckliga skäl, RB 23:2
+f. Bevisat/Ställt utom rimligt tvivel (HD-praxis)
+g. (uppenbart)
+
+Tanken är att man går från det lägsta till det högsta 
+
+Obs! Under Förund. kan man använda tvång, vilket man alltså inte kan göra sen senare
+
+
+### Anledning att anta, RB 23:1
+
+* krav för inledande av förundersökning
+* det krävs en konkret omständighet rörande brottet för att uppnå anledning anta = när brott inte kan uteslutas men konkret omständighet saknas är kravet inte uppnått
+* måste vara ett *konkret* brott
+
+
+### Kan misstänkas, RB 23:9
+
+Lägsta beviskravet för misstanke mot person
+
+* kvarhållas för förhör, RB 23:9
+* särskilda företrdare för barn
+* ögonundersökning
+
+Flera personer kan misstänkas även om bara 1 person begått brottet
+
+### Skälig misstanke. RB 23:18, 24-28 kap
+
+Krävs för de flesta tvångsmedel, [se föreläsning](./tvangsmedel.html)
+
+Utredningen övergår från allmänt brottspanande till att inrikta sig mot viss person
+
+### Sannolika skäl, RB 24:1
+
+Krävs för häktning, (UND utredningshäktning)
+
+"Övertygande bevisning om skuldens sannolikhet"
+
+Sannolikheten måste beräknas i det individuella fallet men vissa bevismedel räcker normalt till alltid: t.ex. DNA, vittne och videobevis
+
+### Tillräckliga skäl, RB 23:2
+
+Krav för att väcka åtal
+
+"åklagaren ska på objektiva grunder kunna förutse en fällande dom"
+
+Bedömning ej på sannolikhetsgrund utan som prognos 

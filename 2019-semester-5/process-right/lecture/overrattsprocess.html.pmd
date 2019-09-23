@@ -1,0 +1,238 @@
+#lang pollen
+
+# Överrättsprocessen
+
+Olof Zachrisson 2019-09-23
+
+## Rättegångsbalkens disposition
+
+* 1- 41 kap - domstolsväsendet, rättegpngen i allmänhet och bevisning
+* 42-48 kap - rättegång i underrätt + vissa regler tillämpas i högre rätt
+* 49-59 kap - rättegång i hövrätt/högsta domstolen och särskilda rättsmedel
+
+#### Hovrätt
+
+Tvistemål: 50 kap, överklaganade av dom
+
+Tvistemål/brottmål: 49 kap, 52-53 kap. Överklagande av beslut, mål som tas upp omedelbart (klander av skiljedomar, enskilt anspråk mot domare etc.)
+
+Brottmål:
+
+#### Högsta domstolen
+
+* 54kap - 57 kap
+
+#### Särskilda rättsmedel
+
+## Överklagbara avgöranden
+
+HR: Dom och *slutlig* beslut av tingsrätt kan nästan alltid överklagas, 49:1 st.1 och 49:3 st. 1
+
+UND: tredskodomar, 49:1 st. 3 (**återvinning**)
+
+Icke-slutliga beslut får som HR överklagas endast i samband med överklagande av dom eller slutligt beslut, 49:3 st. 2
+
+UND: beslut som får överklagas särskilt, 49:4-5 och 7 (målet fördröjs)
+
+Missnöjesanmälan krävs i vissa fall, 49:4 och 6
+
+Vilandeförklaring i avvaktan på HovR avgörande t.ex. avvisande av ombud
+
+## Behörighet att överklaga
+
+**Klagorätt + klagointresse**
+
+Part och målsägande har klagorätt
+
+Klagointresse = avgörandet från rättslig synpunkt ska innebära en *nackdel* dvs framgång = kan inte klaga
+
+UND åklagaren, 20:2 st. 3
+
+Inte möjligt att klaga på domskäl, UND om inte alternativa grunder får olika rättsföljder
+
+Ombud måste styrka sin behörighet (offentlig försvarare har inte rätt att överklaga utan fullmakt)
+
+## Hur
+
+Dom
+
+* Skriftligt överklagande ska ges in till tingsärtten inom 3 veckor från dag för dom, 50:1 och 51:1
+* anslutningsöverklagande möjligt för motpart inom ytterligare en vecka, 50:2 och 51:2
+    * Förfaller om det första överklagandet återkallas eller av annat skäl förfaller
+* Anslutningsfrist + 1 vecka från att de 3 första har gått
+    * den andra partens möjlighet att ta ställning till överklagandet
+    * överklagar "för säkerhets skull" eftersom den som klagar inte ska hamna i en sämre situation kan båda klaga och då kan vad som helst hända
+
+
+Beslut
+
+* 52:1 genom att sktifltigt överklagande ges in till TR
+    * inom 3 beckor från dag för beslutet
+* inget anslutningsöverklagande
+
+## Innehåll
+
+50:4, 51:4 och 52:3
+
+* dom/beslut som överklagas
+* vilken ändring som yrkas, vid dom även vilken del som överklagas
+* grund för överklagandet och prövningstillstånd
+* bevisuppgift och bevistema
+* giltig ursäkt för eventuella nya omständigheter och bevis (vid dom i dispositiva tvistemål)
+
+## Inledande prövning
+
+* TR prövar om överklagande har kommit in i rätt tid
+* HovR prövar om det finns annat hinder, 50:6-7, 51:6-7 och 52:5-6
+    * inget hinder? = prövningstillstånd
+
+## Prövningstillstånd
+
+Krävs för att:
+
+* dom och belsut i tvistemål, 49:12
+* dom i lindriga brottmål, 49:13 st. 1
+Dom i brottmål avseende enskilt anspråk, 49:13 st. 2
+    * om inte skuldfrågan ska prövas
+    * om bara det enskilda finns kvar = behandlas som ett tvistemål 
+* belsut i brottmål sin får överklagas endast i samband med överklagande av dom
+
+Dom och beslut i tvistemål + lindriga brott = prövningstillstånd
+
+Dom och belsut i normala eller alvarliga brott = inget prövningstillstånd
+
+
+### I Hovrätten
+
+Överklagande av TR dom/belsut (annars laga kraft) --> Prövningstillstånd beviljas (annars står avgörandet fast) --> Prövning av TR avgörande
+
+Ändringsdispens
+
+* anledning att betvivla riktigheten
+
+Granskningsdispens
+
+* om det behövs för att bedöma riktigheten
+
+Prejudikat dispens
+
+* om av vikt för ledning av rättstillämpningen
+
+Extraordinär dispens
+
+* annars synnerliga skäl 
+
+Skriftlig handläggning, ställning nästan bara på grund av överklagandet
+
+
+## Ramen för rättegången, tvistemål
+
+* Har TR prövat flera yrkanden får HovR endast pröva det yrkande som överklagats, 17:3
+* ändring av talan kan i princip *inte* ske i hovrätten
+    * UND annan fullgörelse, 13:3 st. 1 p. 1
+* inte ändra talan till att avse annan del av domen än som uppgetts vid överklagandet, 50:25 st. 2
+* förbud mot reformatio in pejus, 17:3, 50:1 och 2
+
+Kräver:
+
+* åberopande av omständigheter enligt 17:3
+* giltig ursäkt för *ny* omständighet, 50:25 st. 3
+    * beakta b.la. partens förutsättningar och om materiell processledning förekommit
+    * omfattar inte nya rättsliga synpunkter på redan pberopade omstädnigheter
+    * kan vara avgörande för PT-prövning ...
+
+--> parterna måste tänka igenom processen noga redan i TR!
+
+
+## Ramen för rättegången, brottmål
+
+* otillåtet att ändra/utvidga åtalet till annan gärning, 45:5 st. 3
+* inte ändra talan till att gälla en annan gärning än den som avses i överklagande
+* prövningsbegränsing
+    * UND genombrottsrekvisiten 
+* förbud mot reformatio in pejus
+
+NJA 1995 s. 226 - är skuldfrågan uppe till bedömning?
+
+Klagande: Åklagaren
+
+Avser: skuld
+
+--> Hovrättens utrymme: skuld och påföljd
+
+Klagande: tilltalad
+
+Avser skuld
+
+--> HovR utrymme skuld och påföljd, förbud mot reformatio in pejus
+
+## Bevismaterialet i HovR
+
+* gammal och ny bevisning, i förhållande till vad som åberopats i TR
+* gammal bevisning kan läggas fram på olika sätt
+    * uppspelning/uppläsning/hänvisning/ omförhör
+    * 35:13 st. 2 - video = förnyad om det finns behov av nya frågor 
+* ny bevisning är tillåten
+    * i brottmål och indispositiva tvistemål
+    * i dispositiva tvistemål om giltig ursält för att inte ha åberopat i TR, 50:25 st. 3
+
+### Tilltrosparagrafen, 50:23 och 51:23
+
+* minskad betydelse efter en modernare rättegång
+    * renodla och snabba processen
+* domen får inte ändras om inte HovR har ett lika gott underlag som TR
+    * UND vid synnerliga skäl
+
+## Avgörande
+
+* På handlingarna eller efter huvudförhandling
+* HovR kan fastställa, ändra, upphäva/ersätta eller undanröja
+* överklagandet kan återkallas eller förfalla, --> TR avgörande står fast
+     * återkallas = parten tar tillbaka
+     * förfalla = målet ska avgöras efter huvudförhandling, part ska inställa sig personligen och denne inställer sig inte
+* undanröjande kan ske p.g.a
+    * rättegångsfel, se 50:26-29 och 51:26-29
+    * instansordningens princip
+
+## Rättegången i Högsta Domstolen
+
+* vem, vad och när följer mycket HovR processen
+* prövningstillstånd krävs i nästan alla mål
+    * prejudikatdispens
+    * extraordinär dispens
+* avgörande på handlingarna (föredragning) eller efter huvudförhandling
+* 16 justitieråd, 2 i Lagrådet
+* justitiesektreterare bereder och föredrar mål
+
+## Resning, 58 kap.
+
+Lagakraftvunnet beslut/dom finns...
+
+* vanligaste grunden är ny omständighet/nytt bevis
+    * krav på giltig ursäkt i tvistemål och vid resning till nackdel för tilltalad
+* ansökan till HovR, om domen har meddelats av TR, och i annat fall till HD
+
+## Återställande av försutten tid, 58 kap
+
+* Förutsätter: part underlåtit använda frist för allmänt rättsmedel och har haft laga förfall
+     * materiella frister omfattas inte
+     * giltig ursält t.ex. sjukdom
+* ansökan till HovR om det gäller överklagande till HovR eller återvinning/återupptagande i TR och i annat fall till HD
+* inom 3 veckor fråndet att förfallet upphörde och sist inom ett år sedan fristen utgick
+* vid bifall får parten en ny frist
+
+## Klagan över domvilla, 59 kap
+
+* grova rättegångsfel, väsentlig rättssäkerhetsgaranti
+* till HovR eller HD
+* inom 6 mån från lagakraftvunnen dom
+* bifall = undanröjs avgörandet
+
+## Klagan över strafföreläggande och föreläggande av orndingsbot, 59 kap
+
+* föreläggande godkänt = lagakraftvunnen dom, 48:3
+* klagan till TR, inom 1 år från verkställighet
+* materiella och rättegångsfel
+* vid bifall undanröjs föreläggandet
+
+
