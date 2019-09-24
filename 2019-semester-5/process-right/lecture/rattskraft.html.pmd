@@ -1,0 +1,186 @@
+#lang pollen
+
+# Rättskraft, litispendens och ändring av talan i dispositiva tvistemål
+
+2019-09-24 Mikael Pauli
+
+Dispositiva tvistemål idag, brottmål här:
+
+## Rättskraft
+
+*Ne bis in idem* - inte två gång i samma sak
+
+*Res judicata* - saken är avgjord
+
+Syfte: Vinnande partens trygghet och processekonomisk fördel
+
+RB 17:11
+
+* notera ordet *sak*
+* står dom men gäller även utslag hos KFM
+
+**Laga kraft** = hänger nära samman men är inte synonym, innebär att en dom inte får överklagas
+
+**Rättskraft** = inte en ny prövning i *tingsrätten*.
+
+Infaller dock samtidigt! 
+
+Förutsättning:
+
+* tid för talan har utgått
+    * talan är lite knepigt begrepp här
+
+### Utsträckning och begränsing
+
+1. Objekt - själva tvisteföemålet, yrkanden + grunder, sakens identitet 
+2. Subjekt - vilka som träffas av domens rättskraft, nämns inte uttryckligen i RB, HR: bara parterna träffas.
+3. Tid -
+
+#### Subjektiva utsträkning:
+
+HR: bara parterna träffas
+
+3 undandtag
+
+1. 3M träffas i den mån denne är bunden av ena partens motsvarande civilrättsliga förfogande t.ex. 2 handshyresgäst i tvist mellan hyresvärd och hyresgäst
+2. Fall där rättskraft mot alla är önskvärd p.g.a behovet av enhetlig fastställelse av rättsförhållandet
+3. Odelbara rättsförhållanden där endast en dom kan ges. Framförallt samägandeförhållanden
+
+#### Utsträckning i tiden
+
+* händelser efter domen som häver rättskraften
+* facta supervenentia = efterföljande omständighet
+
+Två synsätt:
+
+* rättskraften omfattar över huvudtaget inte hädnelser efter domen
+* händelserna efter domen bryter igenom rättskraften
+
+#### Rättskraftens objektiva utsträckning
+
+1. Positiv rättskraft (domens prejudiciella betydelse) = domen ligger till grund för en annnan - bifallande eller ogillande - *dom*
+    * 1sta domen används av domstolen, ett sorts rättsfaktum, saken är redan klarlagd
+    * i princip bara fastställelsedomar som har den här effekten
+2. Negativ rättskraft ( res judicata ): domen utgör rättegångshinder för en ny talan om samma sak; den nya talan ska avvisas genom *beslut*
+    * för rättskraften är det ingen skillnad vem som försöker komma tillbaka
+    * yrkanden och grunder prekluderas genom rättskraft.
+    * beaktas ex officio av domstolen, i praktiken dock för att svaranden tar upp dem
+
+Ibland omfattas yrkanden och grunder som aldrig uttryckligen varit uppe i rättegången
+
+Därför viktigt att som svarande meddela alla invändningar man har, för käranden ska man meddela alla grunder från första början.
+
+#### Principer om negativ rättskraft
+
+* t.ex. arvinge yrkar att testamente ska ogiltigförklaras p.g.a sinnessjukdom, avvisas
+* i nästa process yrkar arvingen på formfel --> avvisas p.g.a negativ rättskraft?
+* Rättskraft?
+
+**Händelseförloppets enhet**
+
+* Widekrona: det är olika händelser - inget res judicata
+
+**Rättsföljdens identitet**
+
+* Ekelöf: samma rättsföljd = res judicata
+* HD kör ofta på den här linjen, med lite modifikation
+
+Periodiskt förfallande belopp - varje delbelpp är en egen rättsföljd --> kan t.ex. yrka ersättning för hyra för varje månad skilt.
+
+
+NJA 1999 s. 520 - HD inte bara samma rättsföljd prekluderas, utan även de som är alternativa och ekonomisk likvärdiga.
+
+NJA 1999 s. 656
+
+NJA 1984 s. 733 - Hänförligt till olika fel? (t.ex. köp, arbete) = varje fel är en egen rättsföljd.
+
+
+Det kan alltid finnas gränsfall...
+
+Några hållpunkter:
+
+* Om svaranden kan förpliktas till flera prestationer är olika rättsföljder
+* olika obligationsrättsliga påföljder är olika rättsföljder
+* olika fel i samma köpeobjekt el.dyl. ger upphov till olika rättsföljder (men vad är ett fel?)
+* utomobligatoriskt skadestånd: skadeståndslagens uppdelning i olika skadeståndsposter är avgörande.
+* flera sakskador p.g.a en skadegörande handling?
+* vid periodiskt förfallande belopp är varje delbelopp en separat rättsföljd
+
+
+Europarätten har haft stor betydelse när det kommer till straffrätten och rättskraft. Samma betydelse har den inte haft på det civilrättsliga området. Dock kan en extremt vidtgående rättskraft leda till brytande av art 6, rätt till rättvis rättegång.
+
+Konsumenträtten är harmoniserad på EU nivå, svensk förmögenehetsprocess är dispositiv även om konsumenträtten är indispositiv. EU har sagt att de processuella reglerna inte får stå i vägen för materiellt slagkraftig konsumentsskydd. Lösa genom materiell processledning? 
+
+### Kvittning och motkrav
+
+* skillnad på motfordringar och invänding mot betalningsskyldigheten
+
+1. Kvittningsinvänding avseende motfordran
+    * typiskt sett har motfordran ingenting med det aktuella kravet att göra
+    * svaranden drar alltså in någonting nytt --> som också kommer att träffas av rättskraften
+    * RB 17:11 st. 2 *i den mån den prövas av domstolen* 
+2. Invänding mot betalningsskyldigheten som sådan
+    * kan motsvara en motfordran inom civilrätten
+    * alla svarandens/köparens invändingar rörande t.ex. fel i köpt vara prekluderas oavsett om de åberopats i en process där säljaren väckt talan om betalningsskyldighetem, om kärandens talan bifalls
+    * hurvudida svaranden/köparen kände till felen t.ex. dolda fel har ingen betydelse för rättskraften, NJA 1999 s. 520
+
+### Tvistemålsdomens rättskraft såvitt avser brottmål och andra slags domstolsprocesser
+
+* har ingen negativ med nog positiv rättskraft
+* brottmålsdom kan ha bevisverkan i en tvistemålsprocess
+* olika domstolsslag har ingen negativ rättskraft mellan varandra
+* negativ rättslraft är begränsad till domstolen
+
+## Litispendens
+
+RB 13:6
+
+fråga = samma sak som "sak" i RB 17:11
+
+* systerinstitut till negativ rättskraft
+* pararella rättegångar i olika domstolar om samma sak ska inte prövas
+* Syfte: processekonomiskt och risk för motstridiga domar.
+
+Föreligger det litispendens: Skulle den framtida rättskraften hindra en annan process i framtiden? 
+
+Beaktas ex officio av domstolen, men i praktiken åberopas av svaranden
+
+## Ändring av talan
+
+RB 13:3
+
+Käranden anger i stämningsansökan yrkanden och grunder, här handlar det om kärandens ändring av dess yrkanden och grunder.
+
+St. 1: HR, ändringsförbud
+
+St. 2: några tidsmässiga begränsingar avseende två av undantagen
+
+st. 3: vissa förändringar är inte ändring av talan
+
+UND 1:
+
+* käranden får p.g.a omständigheter som inträffat *under* rättegången eller först då blivit för honom känd, kräva *"annan fullgörelse"* än den om vilken talan väckts. --> man kan även ändra till fastställelsetalan (måste inte vara fullgörelse)
+
+UND 2:
+
+* RB 13:2 st. 2 prejudiciella rättsförhållandne
+* fastställelsetalan kan läggas till yrkanden och grunderna (kumulation)
+
+UND 3
+
+* kräva ränta eller annan tilläggsförpliktelse som följer av huvudförpliktelsen och även i övrigt framställa nytt yrkande om det stöder sig på väsentligen samma grund
+* handlar inte bara om yrkanden som ligger inom samma rättskraftsområde. Kan användas för yrkanden man lika gärna hade kunnat vänta med
+
+(processekonomiskt fördelaktigt)
+
+Avvisning om det inte utan olägenhet kan prövas i målet (preklusionsfrist). Yrkande enligt 2 och 3 är inte tillåtet i högre rätt (instansordningens princip) 
+
+Koncentrationsprincipen: huvudförhandling ska hållas allt i ett, inga överraskningar.
+
+Inskränkning av talan eller ny omständighet av talan är **inte ändringar av talan** 
+
+Inskränking= av yrkanden eller grunden. t.ex. ta tillbaka 1 av 2 eller flera, eller kvantitativt.
+
+Ny omständighet = om saken inte ändras! samma som i RB 17:11. Samtliga omständigheter man hade kunnat åberopa omfattas av rättskraften 
+
+
