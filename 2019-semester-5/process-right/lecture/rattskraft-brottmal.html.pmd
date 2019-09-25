@@ -1,0 +1,124 @@
+#lang pollen
+
+# Rättskraft och ändring av talan i brottmål
+
+2019-09-25 Magnus Gulliksson
+
+
+## Gränsen för domstolsprövning i brottmål
+
+RB 30:3
+
+* proccessens ram
+* syfte: förbereda försvar och veta vad man står åtalad för
+
+### Rättskraft, res judicata, i brottmål
+
+RB 30:9 
+
+* tillämpningen skiljer sig från det i tvistemål
+* förbud mot att pröva samma gärning två gånger
+
+#### Historia
+
+* lagakraft vunnen dom = processhinder för att åtala samma gärning igen
+* undviker motstridiga domar
+* orubblighetsprincipen - den tilltalades trygghet. Man ska inte behöva riskera att processa igen om samma sak.
+* historiskt har det inte alltid varit såhär - absolutio ab instantia (ställande på framtiden)
+    * den tilltalade är i en limbosituation - varesig dömd eller friad
+    * knuten till den legala bevisteorin
+    * upphävdes 1934
+
+#### Tidslinje
+
+1. Förundersökning
+2. Åtal
+3. Process 1 TR
+4. Dom
+5. 3 veckor senare, RB 30:3 lagakraft (RB 51:1) och rättskraft (RB 30:9)
+
+### Resning till men för den tilltalade
+
+* nya omständigheter anses utgöra samma gärning
+* RB 58:3 - resning till men för den tilltalade
+* st 1 p. 2 och st. 2 intressant
+* För brottet föreskrivet mer än 1 års fängelse (1 år i straffskalan) + nya omständigheter eller bevis + förebringande sannolikt skulle ha lett till att den tilltalade döms
+* "Ursäktsrekvisitet" i st. 2 - åklagaren måste visa att omständigheterna är nya och att det inte fanns anledning att känna till omständigheterna
+
+### Litispendens
+
+* hänger ihop med rättskraft
+* RB 45:1 st 3 - samma gärning får inte väckas flera åtal
+* rättsäkerhet och processekonomiska orsaker
+
+
+### Modifiering/Ändring av åtal
+
+* RB 45:5 st. 1 - **utvidning av åtal**
+    * HR: väckt åtal får inte ändras. Men åklagaren kan utvidga åtalet att omfatta en annan gärning + rätten finner det lämpligt
+    * får endast ske i TR.
+    * Instansordningens princip - man ska få pröva i 2 instanser.
+    * utvidgning handlar om att tillåta att någonting behandlas i samma rättegång som skulle kunna behandlas i en separat rättegång! (dvs man utvidgar inte RB 30:3 "cirkeln"!!!)
+
+* RB 45:5 st. 3 - **justering av åtal**
+    * samma gärning --> inskränker tala / åberopar nytt lagrum / ny omständighet till stöd för åtalet
+    * Tillåtet i alla instanser, analogt i de 2 högre eftersom det fortfarande handlar om samma gärning 
+
+Lagrummen innehåller samma term: gärning. Samma, annan, gärning --> samma begtydelse i alla lagrum?
+
+### Samma eller annan gärning
+
+RB:s förarbeten:
+
+* Läran om processföremålet - syftar till att fastställa existensen av parts rättighet(er)
+* i straffprocessen: fastställa statens straffanspråk mot den tilltalade = processföremålet
+    * ex. åtal för vållande till annans död vs. åtal för mord genom påkörande med bil avser olika *straffanspråk* --> olika gärningar enligt RB 30:3
+    * och RB 30:9. ej samma gärning dvs ej gärningsidentitet
+* Problemet: fokuset måste ligga på grunden - omständigheterna. Intresserna är vitt skilda i civil och straffprocess. Vilket skydd har egentligen rättskraften här (snäv preklutionsverkan)? 
+
+Det är alltså *grunden* eller *gärningsbeskrivningen* som står i centrum.
+
+Vad som jämförs då frågan uppkommer om samma eller annan gärning, är alltsp två påståenden om verkligheten inte vad som bevisats. Kan liknas vid att jämföra om två porträttmålningar avbildar samma person...
+
+Processuella gärningsbregrepp, ska ej blandas ihop med det straffrättsliga gärningsbegreppet
+
+Welamsons förslag - 30:3 och 30:9 sammanfaller inte utan är 2 cirklar där 30:9 utvidgar 30:3 alltså processens ram. Ändamålstänket inkluderar från och med Welamsons att alla regler i RB får praktisk slagkraft. Man har alltså bortgått från vad som uttryckligen sades i förarbetena där RB 30:3 och 30:9 sammanföll (alltså föll t.ex. frågan om resning helt bort eftersom man alltid kunde åtala igen när det var ny rubricering)
+
+### Gärningsidentitet
+
+* samma eller annan gärning?
+* ge incitament till att bedriva förund noggrant från början. + ger genomslag för ursäktsrekvisitet i RB 58:3 st. 2
+
+Samma gärning - Ekelöf
+
+* hanldingen / brottsresultatet / angreppsobjektet
+* angreppsobjektet = inte målsäganden eller målsägandens konkreta intressen, avser visst skyddat intresse av den materiella straffbestämmelsen t.ex. skydd för egendom genom reglering av tillgreppsbrott
+
+NJA 1980 s. 686 - Stöld och häleri är samma gärning eftersom brottsresultatet är samma
+
+Alternativa beskrivningar/konstruktioner av samma händelseförlopp = samma gärning (Olivecrona)
+
+Kriterier för gärningsidentiet:
+
+* obrutna förfogandekedjor (= samma gärning)
+* samma tid och plats (alternativt)
+* (alltid mot bakgrund av ändamålet med reglerna)
+* NJA 2007 s. 557
+
+## Ne bis in idem inom Europarätten
+
+* EKMR tilläggsprotokoll 7 artikel 4
+    * "... of the same state for an offence  ..." --> lagföring inom samma stat för ett brott
+    * criminal proceedings for an offecne ( ett brott, inte gärning ?)
+    * Engel and others v. Netherlands (legal classification of the offence under national law, very nature of the offence, degree of severity of the penalty that the person converned risks incurring)
+    * offence = Zolotukhin v. Russia 
+* Schengenavtalet, art 54
+    * gränsöverskridande anslutande parter, "samma gärning"
+    * bästa exempel: narkotikahandel
+    * Van Esbroeck, Cas C-436/04 p. 36 (=samma gärning)
+* EU:s stadga om de grundläggande rättigheterna, art. 50 + 51 + 52 
+    * *en lagöverträdelse* inom unionen
+    * i princip samma som gärning, endast tillämpligt när man tillämpar unionsrätt!
+    * t.ex. olika uppgifter om moms (harmoniserad inom EU) 
+
+
