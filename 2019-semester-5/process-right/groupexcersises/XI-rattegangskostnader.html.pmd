@@ -2,11 +2,13 @@
 
 # IX. Rättegångskostnader
 
+Kvittning i rättegångskostnadsfall betyder bara att parterna står sina egna kostnader. 
+
 ## Fråga 22
 
 A stämmer R och yrkar 300 000 kr i sakdestånd för framtida men.
 
-(SKL 5:1 p. 3 ersättning för bestående men)
+(SKL 5:1 p. 3 ersättning för bestående men, OBS SKL 6:6 om rättegångskostanderna för kränkning)
 
 a. R betalar hela belpppet innan muntlig förberedelse. A yrkar fortfarande ersättning för rättegångskostnader.
 
@@ -21,19 +23,22 @@ Ersättningsgilla kostnader, RB 18:8, 18:8a
 
 RB 18:5 - tar sikte på när man t.ex. betalar frivilligt en skuld innan målet är avgjort. HR den som återkallar sin talan ska ersätta motpartens kostnader, UND: om inte ersättningsskyldigheten bestäms anorlunda
 
-Om inte RB 18:3 är tillämpligt (dvs återkallelse för att man väckt talan i onödan) kan det här vara frågan om en sådan särskild omständighet som gör svaranden ansvarig för kärandens kostnader även om talan återkallats. 
+* Agneta återkallar och ska i princip betala Rudolfs ersättning om inte det föreligger särskilda omständigheter
+* Här kan det anses föreligge särskilda omständigheter eftersom Rudolf fullgör käromålet i sak --> ska betala sina egna och Agneta.
+
+(RB 18:3 - onödig rättegång väckt av kärande. Kanske Rudolf hade betalat om Agneta frågat? )
 
 b.
 
-* RB 18:8 st. 1 ersättning utgår även för kostnader för förlikningsförfarande
-* Beror lite på hur stora kostnaderna rimligtvis kan vara, om det handlar om en summa under ett halft prisbasbelopp gäller RB 18:8a istället för 18:8.
-    * Då har A rätt till ersättning för 1h rådgivning + ansökningsavgiften
+* RB 18:5 st. 3 om parterna förliks ska vardera parten bära sin kostnad om inte annat avtalats
 
-* RB 18:5 st. 2 om parterna förliks ska vardera parten bära sin kostnad om inte annat avtalats
+Således ska Agneta bära sina och Rudolf sina om inte de i förlikningförhandlingen kommer fram till någonting annat. 
 
-c. 
+c. Tyngpunktsprincipen
 
-NJA 1979 s. 567
+RB 18:4 st.2 - om de olika delarna har varit olika kostsamma och om de olika kostnaderna kan särskiljas ska ersättningsskyldigheten därefter bestämmas (delvis bifallande)
+
+NJA 1979 s. 567 (**tyngdpunktsprincipen**)
 
 * om ett krav på ersättning av sveda och värk endast delvis bifalles kan utgången i målet inte utan vidare vara avgörande för hur ansvaret för rättegångskostnaderna ska avgöras.
 * om huvudfrågan i målet har rört om det över huvudtaget finns en betalningsskyldighet och därför i den delen dragit mest rättegångskostnader, ska detta inverka (i hög grad) på bedömningen om ansvarsfördelningen över rättegångskostnaderna
@@ -47,10 +52,25 @@ Käranden bifalls på att det har skett en skada, men värderas väldigt lågt (
 
 Svaranden ogillas på invändingen, men vinner i värdeingen av skadan (100' som förlikningsförslaget också var)
 
-d.
+Således: den part som vinner den kostnadskrävande delen kan få ersättning för de kostnaderna, även om man inte vinner hela målet. (som utgångspunkt!)
+
+Agneta kan därför få sina rättegångskostnader ersätta av Rudolf (även om jämkning till viss del är möjligt eftersom A endast får 30% av vad hon yrkat i ersättning)
+
+
+d. Proportionalitetsprincipen
+
+RB 18:4, st 2 --> st 1 
 
 Här är frågan om hur stor skadan är, dvs inte om det föreligger någon skada alls. Käranden kan anses ha vunnit helt att svaranden svarar för rättegångskostnaderna till större del här än i c.
 
+NJA 1973 s. 623 och praxis sedan dess
+
+("Om tvisten enbart gäller frågan om storleken av ett tvistigt belopp som ska bedömas skönsmässigt, ska fördelningen av rättegångskostnaderna stå i proportion till utgången i själva saken")
+
+1. Processens ram, RB 17:3: 0(svarande bestred) - 300 000 (kärande yrkade)
+2. Kvittningspunkten -> 150 000 (mitten) om detta blir utdömt ska parterna stå sina egna kostnader
+3. Käranden vinner 100', 50' finns kvar till kvittningspunkten
+4. Käranden ska således betala 1/3 av rättegångskostnaderna (150'/50') - "förlorat 1/3" 
 
 ## Fråga 23
 
@@ -63,5 +83,12 @@ Fördelning av rättegångskostnaderna i underrätten resp. hovrätten
 * och om käranden yrkat 60', men får 0 i TR och 30' ska det behandlas somom TR redan gett 30' och rättegångskostnaderna ska därför kvittas, RB 18:4
 * RB 18:15 ersättning i högre rätt, utgången i lägre rätt ska inte påverka fördelningen av överrättskostnaderna
 
-A kan anses ha vunnit sin talan i HovR --> R ska därför stå för hennes (eller åtminstone till 2/3)
+Ramen i TR är alltså 0 - 300, utdelning blir på 200' dvs. Rudolf ska betala 1/3 av Agnetas Rättegångskostnade (+ sina egna)
 
+**Överrättskostnaderna**
+
+RB 18:15 
+
+1. Ramen i HovR: 100'- 300' (eftersom bara A överklagar, reformatio im pejus)
+2. Kvittningspunkten: 200'
+3. utdömt: kvittningspunkt! --> båda parterna står sina *HovR kostnader*. 
