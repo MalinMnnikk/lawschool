@@ -1,0 +1,257 @@
+#lang pollen
+
+# Introduction to Arbitration
+
+2019-10-07 Daria Kozlowska Rautiainen
+
+Goal: basic knowledge in the fundamentals of arbitration
+
+## Introduction
+
+Charachtereistics of arbitration: out of court, private procedure thorugh which private disputes are resolved.
+
+Nongovernmental neutral solves the dispute - neutral to the parties, not appointed by a state, appointed by the *parties* = the arbitrator 
+
+*Trust* is fundamental to arbitration.
+
+Based on a *consensual arbitration agreement*. No agreement=no arbitration. --> waves your right to go to "regular" court. (both parties can however agree to take the dispute to court, but this rarley happens)
+
+*Flexible* - very little rules. The parties rule every aspect for ex. the arbitrators, applicable law, procedual law etc. The seat is chosen for the applicable law (Seat: Stockholm, Law: swedish arbitration act)
+
+Limits: due process. - parties are treated equally, reasonable opportunity to present their case. (state regulated)
+
+Private,(and confidential). Close-door proceedings. Confidentiality is not absolute, but depends on the institutional rules, local law etc.
+
+Can be *time and cost efficient* - depends on the parties who can set their own DL. 
+
+The state court can assist and supervise - usually there is no need for this.
+
+**The award is final and binding.**
+
+Different from mediation (=agreement), and closer to a court ruling.
+
+Whatever the tribunal decides is final and cannot be challenges (but see limits under)
+
+### Types
+
+1. National/domestic  vs. International
+     * international = the dispute regards an international element (not necessarily that the parties are from different states) Check if the country is a Model country (UNICITRAL)
+2. Investment vs. Commercial - Between states
+     * investment = always between state and an investor
+     * commercial = not the state in its soverign role
+3. Institutional vs. Ad hoc
+     * SCC, ICC = institution that takes care of the secreteriat (ex. sends papers, checks awards for mistakes, help the parties in dead-lock situations)
+    * Ad Hoc = no institutions, no institutional rules. Very often the UNICITRAL rules apply 
+
+Here: focus on commercial and institutional
+
+## Legal Framework
+
+Can be very complex.
+
+### Important legal sources in international commercial arbitration
+
+New York Convention - 1958, nr 1 source. Basically universally recognised and applicable. Deals with 2, main, issues:
+
+1. Enforcability of arbitration agreements. Article II. 
+2. Enforcability of arbitration awards, article III
+3. (Challenging an award, article V)
+
+UNICITRAL Model LAw on International Commercial Arbitration (different from the UNICITRAL arbitration rules)
+
+* instrument for the states to reffer to when creating a national arbitration act (ex. Germany)
+* Sweden is not a Model Law country, nor is older arbitration countries like France
+* created to make other countries "catch-up" in terms of arbitration
+* as such not interesting in practise, but in theory and academia very relevant
+
+National Arbitration laws: e.g. Swedish Arbitration Act (even though they are not always acts)
+
+* very important since the seat of the arbitration determines the applicable law. 
+
+Arbitration rules: e.g. SCC Arbitration Rules (not in ad hoc)
+
+Soft Law (not rules or law, but for inspiration and guidelines)
+
+* IBA Guidelines on Conflicts of Interest
+* IBA rules on the taking of evidence
+
+## Arbitration agreement
+
+* No agreement = no arbitration
+* source of power for the arbitrual tribunal
+* necessary for enforcement of the award
+
+**Separability** - section 3 of the swedish arbitration act
+
+If the contract itself is questioned/invalid doesnt automatically mean that the arbitration clause is invalid. 
+
+**Competence-competence** - s. 2 § 1 = tribunal decides its own competence. e.g. its own juristiction.
+
+The clause:
+
+See example in the material
+
+"in accordance with the arbitration rules ..." + [The Seat], lex arbitri  = e.g SCC rules + the Swedish Arbitration Act
+
+"This contract shall be governed by the substantive law of  [COUNTRY] = e.g. Finland
+
+
+## Guiding principles
+
+National acts provide minimal guidance
+
+1. Party autonomy - parties choose the procedure
+2. Tribunals discretion - when parties cannot decide, the tribunal will
+3. Equality of the parties
+4. Opportunity to present one's case
+
+Arbitration rules often repeat the main principles + more details
+
+UNICITRAL Model Law
+
+article 18 - "full opportunity" = reasonable opportunity to present the case (equality)
+
+article 19, 1 and 2 - party autonomy
+
+Opportunity means a chance, not an obligation to force a party. (they have to use the opportunity)
+
+### Swedish Arbitration Act
+
+* effciency (section 21)
+* party autonomy
+* equality (section 24) "to the extent necessary"
+
+But, look at the New York convention first to know the grounds of challenging the award. Otherwise there is no point in proceeding.
+
+Acc to the SCC rules the confidentiality doesn't apply to the parties under the rules.
+
+## Example arbitration proceedings
+
+The parties decide what takes place so the variation is very vide
+
+1. Preliminary phase
+    * request dor arbitration / notice
+    * answer/reply of responent
+    * constitution of the tribunal (which can be quite the hassle)
+2. Early management conference
+    * agree on time tables and specific procedural rules
+3. Written phase
+    * statement of claim and statement of defence
+    * document requests, witness statements, expert reports
+    * further written submissions
+4. Hearing phase
+    * witnesses and experts, can take a long time if its a big case
+    * usually one sitting without any breaks
+5. Post-hearing phase
+    * briefs
+6. Deliberation phase
+    * award is being drafted
+    * usually half of the award can be drafted before the proceeding because it is mostly information about what happened before the arbitration
+7. Rexognition and enforcement phase
+    * in national court
+
+### 1. Preliminary phase
+
+**Request for Arbitration**
+
+* Ad Hoc: claiman --> respondent (no institution). Starts when the respondent recieves the request
+* Institution: claiman --> SCC --> respondent. Starts when SCC recieves the request.
+
+Sometimes sending documents to an other party is not too straight forward --> better to use an institute.
+
+SCC rules art 8.
+
+####The tribunal
+
+* parties name the arbitrator/s
+* independent and impartial - but the circles are pretty small so knowing somebody doesn't mean they are not impartial.
+
+1 or 3 arbitrators - starting point is 3. (always cheaper with 1) 
+
+art. 16-21 SCC Rules
+
+###2. Early management conference
+
+Tool to *enable efficiency*
+
+Settles many practial things from the start. ex. language, timetable etc. 
+
+Opportunity - not an obligation.
+
+Typically only the lawyers attend.the details are important.
+
+The SCC rules are not too detailed so agreements are necessary.
+
+--> Procedural order nr. 1 (PO No. 1)
+
+Relevance for the class seminar!
+
+
+###3. Written phase
+
+The case typically evolves as it goes on (in Sweden). In international its more front-loaded and the first brief matters much more (essentially cannot be changed)
+
+Norm: 3 rounds of written phase
+
+#### Evidence
+
+Mostly based on facts and not law - issues are in the contract where they also are regulated.
+
+1. Documents. Proof the case, most important evidence. 
+2. Witnesses of facts. Add-ons to the documents
+3. Experts
+4. Inspectors
+
+IBA Rules on the Taking of Evidence art 3 and 9
+
+###4. Hearing
+
+Location: lawfirm, conference-room, hotel... etc. Quite informal
+
+Private proceeding - no audience, no press.
+
+Legal cultures have differences when it comes to the hearing.
+
+IBA Rules are there to strike a balance (guidelines for proceedings)
+
+### 5. Post hearing
+
+### 6. Deliberation phase
+
+### 7. The Award
+
+Final and binding
+
+Challenged only on very limited grounds. Usually never challenged, and if, seldomly successful.
+
+## Challenge
+
+Invalid awards: section 33 swedish arbitration act. ex. some issues are too important for the state to let be resolved in private e.g. family issues, criminal issues, land etc. Varies from country to country. 
+
+Bases for setting the award aside, section 34
+
+e.g. invalid arbitration agreement (see above on the doctrines) or irregularities in the process (due process was not followed)
+
+## Recognition and enforcement of foreign awards in Sweden
+
+Enforce the awards where "the money is" i.e. where the company has it's assets
+
+art. 54 - reflect art V. 1 of the New York Convention
+
+art. 55 - reflect art. V. 2 of the New Yorl Convention
+
+Scenario: Party has the award but the other party doesn't want to obey.
+
+1. Parties were under some incapacity, or the agreement is not valid
+2. party was given no notice, or otherwise unable to present his case.
+3. the issue falls outside of the scope
+4. The compostition of the arbitrual authority was not in accordance with the party agreement
+5. the award has not yet come into effect for the parties.
+
+Also be refused if the competent authority:
+
+1. The subject matter is not capable of settlement thorough arbitration
+2. Recognition/enforcement would be Contrary to the public policy 
+
+Check the outline of the seminar!
+
