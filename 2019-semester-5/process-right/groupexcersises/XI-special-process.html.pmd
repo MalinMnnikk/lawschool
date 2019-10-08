@@ -7,6 +7,7 @@
 a. Ändra dom i skiljeförfarande
 
 * § 32 om lag om skiljeförfarande - par kan begära rättelse eller komplettera domen om det innehåller uppenbar oriktighet
+* § 33-36 - bara processuella fel kan åberopas. Här är det ett materiellt fel. 
 
 HR: finns ingen möjlighet till överklagan som för vanliga domar i allmänna rätten
 
@@ -24,10 +25,13 @@ b. Upphävande av dom vid HovR
 
 § 34 efter klander kan en skiljedom helt eller delvis upphävas om (p.1) det inte omfattas av ett giltigt avtal mellan parterna. § 43 talan ska väckas i HovR.
 
-Dock är skiljeklausulen och avtalet i sig att ses som två skilda avtal, separabilitiesdoktrinen, §3 LSF.
+Dock är skiljeklausulen och avtalet i sig att ses som två skilda avtal, separabilitiesdoktrinen, **§3 LSF**
+
 Därför är skiljemän behöriga att pröva tvister sedan ett avtal hävts, "efterföljande ogiltighet".
 
-Handlar om en presumtion och således kan bedömningen bli annorlunda om det föreligger omständigheter som talar emot en sådan här tolkning. T.ex. om skiljeklausulen endast är undertecknad av en part, s. 34 Specialprocessrätt. Däremot kan man anse att själva skiljeklausulen är oskälig enligt § 36 AvtL, s. 55 Specialprocessrätt. 
+Handlar om en presumtion och således kan bedömningen bli annorlunda om det föreligger omständigheter som talar emot en sådan här tolkning. T.ex. om skiljeklausulen endast är undertecknad av en part, s. 34 Specialprocessrätt. Däremot kan man anse att själva skiljeklausulen är oskälig enligt § 36 AvtL, s. 55 Specialprocessrätt.
+
+Klandergrunder ska därför tydligt åberopas under skiljeförfarandet. 
 
 Således: tappande part kan inte få domen upphävd i HovR eftersom skiljeförfarandeklausulen ska ses som ett skiljt avtal och således inte påverkas av att grundavtalet är hävt. 
 
@@ -35,11 +39,17 @@ Således: tappande part kan inte få domen upphävd i HovR eftersom skiljeförfa
 
 a. överklagandeinstans för KFM utmätning
 
-* UB 4:18 - lös egendom i gäldenärens besittning presumeras tillhöra denne
-* 4:20 UB - om lös egendom har utmäts enligt 17, 18, 19 §§ trots att 3M har bättre eärr till egendomen ska KFM förelägga 3M att inom 1 mån väcka talan i saken
-* UB 4:19 gemensamt besutten egendom mellan makar anses höra till gäldenären om det inte samäganderätt eller bättre rätt görs sannolikt
 
-Överklagande ska göras till TR i första instans
+Överklagande ska ställas till TR i första instans, UB 18:1 - men lämnas in till KFM, UB 18:9
+
+Den som beslutet angår har talerätt, UB 18:2 
+
+
+b. Ställningstagande
+
+* UB 4:18 - lös egendom i gäldenärens besittning presumeras tillhöra denne
+* 4:20 UB - om lös egendom har utmäts enligt 17, 18, 19 §§ trots att 3M har bättre rätt till egendomen ska KFM förelägga 3M att inom 1 mån väcka talan i saken
+* UB 4:19 gemensamt besutten egendom mellan makar anses höra till gäldenären om det inte samäganderätt eller bättre rätt görs sannolikt
 
 NJA 2008 s. 444
 
@@ -49,26 +59,50 @@ NJA 2008 s. 444
 
 Således ska KFM ge ett föreläggande om att 3M här ska väcka talan mot gäldenären och utmätningssökanden vid tingsrätten. 3M kan också väcka talan vid domstol utan att föreläggande, risken är då att utmätningsförfarandet fortgår.
 
-Här är egendomen redan utmätt, 1 mån innan Agnes överklagar. Därför kan Agnes överklaga direkt till TR. Agneta kan också ansöka om självrättelse hos KFM om hon kan styrka sin äganderätt relativt enkelt. 
+--> två pararella processer.
+
+Väckande av talan enligt UB 4:20 om bättre rätt (hejdar utmätningsförfarandet, UB 8:5. Redan föreläggande har denna effekt)  + bevislättnader i TR
+
+Utan föreläggande där man väcker talan ändå i TR fortgår fortfarande utmätningsförfarandet. 
 
 
-b. Ställningstagande
+*Förutsättningar för att utmäta lös egendom måste föreligga (kap. 5 UB)*
 
-Musikanläggningen: A yrkar att den är hennes. Bevis: kvitto på att hon köpt den innan äktenskapet. UB 4:19 får utmätas om det inte *framgår* att egendomen tillhör den andra (make). Dvs det ska vara *styrkt* att egendom inte tillhör gäldenären. 
+**Musikanläggningen:**
 
-Kvitto kan anses vara bevis på att anläggningen tillhör A och således framgår detta. Därför ska TR ge henne bättre rätt till musikanläggningen.
+A yrkar att den är hennes. Bevis: kvitto på att hon köpt den innan äktenskapet. UB 4:19 får utmätas om det inte *framgår* att egendomen tillhör den andra (make). Dvs det ska vara *styrkt* att egendom inte tillhör gäldenären.
 
-Tandemcykeln: Ska göra det sannolikt att cykeln samägs av A och E. Sannolikt = inte bara påstående utan någonting annat måste föreligga för att bryta påståendet. t.ex. typiskt sätt brukar skaffas för gemensamt bruk. --> man kan inte åka tandemcykel ensam, då kan man lika gärna köpa en vanlig cykel. Det kan anses att den införskaffats för bådas räkning och att samägande då kan anses föreligga.
+Framgår är ett högt beviskrav. För mindre beviskrav kan man väcka en egen talan om bättre rätt. 
 
-Bankkonto:
+Kvitto kan anses vara bevis på att anläggningen tillhör A och således framgår detta. Därför ska TR ge henne bättre rätt till musikanläggningen. Dock är det tveksamt om kvittot är tillräckligt med bevis för att anse att det "framgår" att A är ägare till musikanläggningen. 
+
+A borde ha väckt egen talan med lägre beviskrav och då föra fram kvittot.(fastställelsetalan med vanliga RB regler) 
+
+
+
+**Tandemcykeln:**
+
+Ska göra det sannolikt att cykeln samägs av A och E. Sannolikt = inte bara påstående utan någonting annat måste föreligga för att bryta påståendet. t.ex. typiskt sätt brukar skaffas för gemensamt bruk. --> man kan inte åka tandemcykel ensam, då kan man lika gärna köpa en vanlig cykel. Det kan anses att den införskaffats för bådas räkning och att samägande då kan anses föreligga.
+
+UB 4:19 - sannolikt eftersom det handlar om sambesittning 
+
+Sannolikt är mycket lägre beviskrav än ovan "framgår". 
+
+**Bankkonto:**
+
+UB 4:17 - 
+
+UB 5:1 p. 2 - bankkonton undantas utmätning tillfälligt. Beaktas speciellt när gäldenären har familj. 
 
 Även tillgångar på bankkonton är lös egendom, och kan även de samägas. enligt 1§ samägandelagen.
+
+NJA 2015 s. 763
 
 Isåfall får endast hälften - beneficium utmätas, eftersom det andra hör till makan och beneficium har man rätt till (om det inte finns andra konton för beneficium)
 
 ## Fråga 30
 
-Konkursansökan handlar i TR om obetald moms, i HovR överklagar svarande och yrkar att hen inte är betalningsansvarig (fel skattesubjet) + fel forum föreligger. Käranden besitred + yrkar 16 000 i restskatt.
+Konkursansökan handlar i TR om obetald moms, i HovR överklagar svarande och yrkar att hen inte är betalningsansvarig (fel skattesubjet) + frågan om fel forum föreligger. Käranden besitred + yrkar 16 000 i restskatt.
 
 Sökande ska visa att hen har en giltig fordran + att gäldenären är insolvent
 
@@ -76,16 +110,15 @@ Svarande kan i sin tur försöka visa att fordran inte är giltig + man är solv
 
 Utgör det en otillåten taleändring?
 
-KL 16:5 - belsut i konkursärenden får överklagas, och varje belsut kan överklagas för sig
+KL 16:2 st. 3 - rättens avgörande sker genom *beslut* (inte dom!)
 
-KL 16:9 - överklagan görs till HovR.
+(KL 16:5 - belsut i konkursärenden får överklagas, och varje belsut kan överklagas för sig
 
-RB 50:25  - HR: en klagande får inte ändra sin talan att avse en annan del av TR dom än det som överklagats.
+KL 16:9 - överklagan görs till HovR.)
 
-st. 3 omständigheter till bevis som inte lagts fram tidigare kan läggas fram om:
+Det handlar inte heller om en taleändring utan om en justering av talan. 
 
-1. sannolikt att det inte kunde åberopas i TR eller
-2. annars giltig ursäkt
+**Beslut** överklagas enligt kap. 52 RB, och inte kap. 50 --> preklusionsregeln i kap 50 har ingen motsvarighet och gäller inte. 
 
 NJA 1982 s. 641 - en borgenär har ansetts oförhindrad att i HovR åberopa annan fordran som stöd för sin behörighet
 
@@ -98,13 +131,15 @@ Förutsättningar för att sätta någon i konkurs som borgenär:
 
 * Fordran är klar, anmaning och konkursansäkan har gått rätt till
 
-Man ska först pröva gäldenärens insolvens och sedan borgenärens behörighet
+KL 2:4 borgenär ska lämna uppgift om sin fordran och de omständigheter på vilka han grundar yrkandet. 
 
-KL 2:8 presumerar obestånd om det finns ett misslyckat utmätningsförsök.
+Man ska först pröva gäldenärens insolvens och sedan borgenärens behörighet
 
 KL 2:9 ger en möjlighet för borgenären att skapa en presumtionsgrund för insolvens. Om inte bokföringsskyldig gäldenären betalar en ostridig och förfallen skuld inom en vecka föreligger det en presumtion för insolvens.
 
-KL 2:4 borgenär ska lämna uppgift om sin fordran och de omständigheter på vilka han grundar yrkandet. 
+Denna grund kan endast åberopas endast av den borgenär som anmanat. 
 
-Borgenär B kan här få ett snabbt beslut eftersom det finns ett misslyckat utmätningsförsök och det därför råder presumtion om insolvens. Härutöver måste borgenär B också visa att han har en giltig och förfallen fordran.
+KL 2:8 presumerar obestånd om det finns ett misslyckat utmätningsförsök.
+
+Borgenär B kan här få ett snabbt beslut eftersom det finns ett misslyckat utmätningsförsök och det därför råder presumtion om insolvens. Härutöver måste borgenär B också visa att han har en giltig och förfallen fordran. Däremot kan han inte använda A:s anmaning enligt KL 2:9
 
