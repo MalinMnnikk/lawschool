@@ -4,9 +4,14 @@
 
 *Vid seminariet kommer vi diskutera tre fall där preklusionsreglerna aktualiseras. De första två fallen är av mer klassisk karaktär där vi diskuterar preklusionsreglernas räckvidd. I det tredje fallet lägger vi till den taktiska aspekten och diskuterar även hur ett processombud bör agera med kunskap om riskerna och möjligheterna med att vänta med att presentera material. *
 
+Preklusion är en risk - men också en möjlighet (åtminstone för den som kan)
+
+Utnyttja utrymmet och t.ex. spara saker för att avslöja en lögn senare i processen.
+
+
 ## Fall 1
 
-Brottmål - preklusionsreglerna gäller inte i brottmål.
+Brottmål - preklusionsreglerna gäller inte i brottmål. (finns inga motsvarande bestämmelser angående brottmålen) eller motsatsvis från 42:15 och 15a "fall där förlikning är tillåten"
 
 Den tilltalade förnekar plöstligt brott vid slutpläderingen (alltså inom huvudförhandlingen) och åberopar ny bevisning och nya vittnen i målet
 
@@ -14,18 +19,35 @@ RB 43:10 om en part ändrar uppgifter under huvudförhandlingen eller åberopar 
 
 Lisa ska därför ta i beaktande det nya materialet i rättegången
 
-ii) Nej, inte i brottmål.
+HR: ingen preklusion i brottmål.  Dock finns det andra principer som begränsar rätten t.ex. rätt att bemöta allt material, likställighetsprincipen (tillräckligt med tid), RB 46:2 Huvudförhandling kan skjutas upp
+
+Lisa måste ta ställning till om det är lämpligt att ställa in huvudförhandlingen. Däremot kan Lisa bestämma att rättegångskostnaderna ska stås av den uppsåtliga parten (HR: staten står kostnaderna, men om en TT försöker förstöra processen RB 31:4 kan hen bli ansvarig för kostnaderna)
+
+Motiveras av att i brottmål ska man prioritera att rättegången går rätt till och att rätt beslut fattas. 
+
+ii) Ny bevisning i HD
+
+Fortfarande ett brottmål, dvs. inga preklusionsregler. HD ska däremot förvisa tillbaka till TR (instansordningens princip - det ska vara samma/lika mål igenom hela instansordningen, samt kan prejudikatfrågan falla om nya omständigheter tillkommer, vill inte ha målet kvar)
+
+SU 1938:44 s. 527 - stöd för återförvisning (ursprunglig) men idag finns det oändligt med praxis på återförvisning.
+
+RB 31:4 gäller i HD också. 
+
+(RB 55:13 i tvistemål)
 
 ## Fall 2
 
 i) Parternas argumentation om förhöret ska tillåtas:
 
-Köparen:
+Köparen: (vill åberopa ny bevisning - konverteringsfel)
 
 Ska enligt RB 42:15a 2 st.:
 
 * göra det sannolikt att köparen har en giltig ursäkt för att inte ha åberopat beviset tidigare. Dvs. det är en rimlig och giltig ursäkt att det skett ett tekniskt fel som inte noterades av ombudet.
 * samt att målet inte fördröjs i väsentlig mån om åberopandet tillåts eftersom motparten ju redan har åberopat vittne till motbevisandet av det här vittnesmålet, dvs frågan är redan på tapeten i rätten.
+* RB 43:10 - gäller tillsammans med RB 42:15a. Även om de avvisar olika områden
+
+Av rent taktiska skäl är det smart att åberopa RB 43:10 och argumentera för att man inte varit *grovt* vårdslös. 
 
 Säljaren:
 
@@ -33,8 +55,9 @@ Ska kort sagt påstå det motsatta + kan argumentera att köparen genom åberopa
 
 * t.ex. argumentera att ett tekniskt fel som orsakar att ett helt vittne faller bort, och till en så relevant del, är någonting som ombudet borde ha märkt vid ett tidigare skede
 * och att målet fördröjs om åberopandet inte avvisas (man behöver tid för att förbereda sig på motförhör etc.)
+* ska också aktivt påstå att den nya bevisningen kräver mycket mer jobb och att huvudförhandlingen därför måste ställas in. 
 
-ii) Det kan antas att köparen genom sin argumentation har gjort det sannolikt att de hade en giltig ursäkt samt att vittnet är väsentligt för utgången i målet. Det ska därför inte avvisas
+ii) Tveksamt om det är *grovt* vårdslöst, RB 43:10. Svaret beror på t.ex. hur käranden har betett sig under resten av processen, och på hur parterna argumenterar samt Lisas humör i övrigt. 
 
 **Bevistema i vittnesförhör**
 
@@ -46,43 +69,61 @@ Under motförhör är ramen för frågorna bredare än under huvudförhöret, NJ
 
 i)
 
+Skäl för snäva bevisteman= vittnet är bara nödvändigt för en snäv sak och frågor utanför kan vara till nackdel under motförhöret
+
+Skäl för vid bevisteman = svårare att vara uppenbart utanför, dvs fler frågor är tillåtna. 
+
 Köparen:
 
 * att det föreligger fel i varan går hand i hand med att man reklamerar den, därför är frågan inom bevistemat som ställts upp.
+* bevistemat = saken, NJA 2006 s 520
 * frågorna hör dessutom väsentligen till saken
+
+Saken i övriga RB = rättskraften i domen 
 
 Säljaren:
 
 * frågan om reklamation är en helt annan än frågan om det föreligger fel i varan, det ligger därför utanför bevistemat.
 * om köparen vill fråga detta vittne om X får hen göra det inom ramen för åberopande av ny bevisning
 
-ii) frågan ska inte tillåtas eftersom det ligger utanför bevistemat och isåfall kan åberopas med stöd av åberopande av ny bevisning.
+ii) frågan ska inte tillåtas eftersom det ligger utanför bevistemat och isåfall kan åberopas med stöd av åberopande av ny bevisning (enligt reglerna i RB 43:10 och 42:15a)
 
 **Ifrågasättande av vittnets trovärdighet**
 
 * Motförhörets ram är större än huvudförhörets.
 * Mejlet: läsa högt = muntlig bevisning, hör till bevistemat (som ju handlade om reklamation)
-* frågan om mened: är till för att försäkra sig om vittnets trovärdighet och kan inte anses otillbörligt
+    * Problemet är att ingen skriftlig bevisning har inte åberopats tidigare.
+    * Kringgående av preklusionsreglerna?
+    * Men genom motförhöret ska man kontrollera att vittnets sägelse motsvarar faktiska omständigheter. Därför troligtvis tillåtet
+* Frågan om mened: är till för att försäkra sig om vittnets trovärdighet och kan inte anses otillbörligt
 
 Man kan säga att motförhörets bevistema är alltid att motbevisa huvudförhörets bevistema, därför är även t.ex. ledande frågor och frågor utanför bevistemat tillåtna (till en viss grad)
 
 s. 94 Ekelöf vol 5.
 
-Lisa borde inte ingripa eftersom de följer ändamålet med vittnesförhöret
+Lisa borde inte ingripa eftersom de följer ändamålet med vittnesförhöret.
 
-## FalSl 3
+## Fall 3
 
 Vilka upptäckter bör beskrivas redan i yttrandet, men vilka kan sparas till senare dvs huvudförhandlingen? (för att få ett överraskningsmoment som kan ge kommunen en chans att vinna målet)
 
 HR: risken för att någonting prekluderas blir ofta större ju senare i processen det framkommer.
 
+Frågan om Preklusionsrisk vs Praktiskt problem att få in i målet 
+
 i)
+
+400 utdragen = hög preklusionsrisk p.g.a omfattande material,ingen giltig ursäkt etc. 
 
 Ombudet borde ta upp utdragen från Skatteverket som skriftlig bevisning till styrkande av att vissa personer som påstås ha arbetat X antal timmar i själva verket inte "existerar" i Skatteverkets register.
 
 X kan åberopas som vittne till styrkande av pålitligheten i listan, men själva frågan om han får betalt för att vittna på ett sätt kan sparas till förhöret. Bästa skulle vara om X åberopas av städfirman, då motförhöret har bredare ram.
 
-ii) om vittnets trovärdighet under vittnesförhöret, om dubletterna - fråga om det är vanligt att man jobbar så många dubbla skift, samma med de utländska personnummren - fråga om det är många som saknar svenska.
+ii) om vittnets trovärdighet under vittnesförhöret, om dubletterna - fråga om det är vanligt att man jobbar så många dubbla skift (uttalande om material som redan finna i målet), samma med de utländska personnummren - fråga om det är många som saknar svenska.
+
+Peka på dubletterna har obefintlig preklusionsrisk eftersom det är material som redan finns. 
+
+Vittne X kan frågas om hen får betalt för den här processen. (dock begränsad preklusionsrisk eftersom syftet är att överumpa vittnet)
 
 iii) Destu senare, destu större risk. Den skriftliga informationen finns det en risk med eftersom det kan antas att den läggs fram senare för att överraska.
 
@@ -104,4 +145,10 @@ ii) Vittnets svar kan inte anses vara utanför bevistemat, men har en väsentlig
 * svaret ska tillåtas
 
 iii) Ja, hade kunnat kolla upp vilka länder som har sådana personummer och fråga mera om dubletterna
+
+
+Ny bevisfakta som åberopas under huvudförhandling kan avvisas med RB 43:10 (or not - check map)
+
+Förutse överraskningen och vända på överraskningsmomentet --> mycket bättre än att försöka få saken avvisad ;)
+
 
