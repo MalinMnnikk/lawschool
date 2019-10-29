@@ -1,0 +1,92 @@
+#lang pollen
+
+# Rättskraft och modifiering av talan i brottmål
+
+## Del 1
+
+Svea HovR:
+
+* TT är åtalad för misshandel, 3 fall av ringa narkotikabrott (erkänner två) samt grovt vapenbrott.
+* ang det grova vapenbrottet förnekar TT brott
+    * TT syns på bld och film med pistolliknande föremål, dock har någon pistol inte påträffats på TT
+    * NFC:s undersökning talar för att föremålet är ett vapen som kräver tillstånd (innehavet utgör således ett vapenbrott)
+    * Fotot saknar metadata, men bakgrunden, skuggorna och ljuset tyder på sensommar/höst i Sverige. Exakt datum justerades av åklagaren under HUF.
+
+HovR: åklagaren ska styrka innehavet och platsen. P.g.a NFC utredning är det styrkt att det handlar om ett vapen som innehavs av TT. Dock saknas möjlighet att bestämma exaktare tid och plats --> bevisningen är således inte tillräckligt robust för fällande dom. Åtalet ogillas i delen om grovt vapenbrott.
+
+Hovrätten över Skåne och Blekinge
+
+* TT erkänner olovlig körning, grovt brott, men förnekar vapenbrottet.
+* TT påstår att han inte avfyrat något vapen, är inte den personen som syns på filmen samt att Film 1.3 har blivit redigerad
+* Film 1.3 är skapad, inte inspelad, och saknar metadata. Den är redigerad och av sämre kvalitet än de andra.
+* TR: stor sannolikhet att personen på filmerna är samma (likadan klädsel och färger), på filmen avlossar TT vapnet. Vapnet går inte att identifieras i samma film där det avlossas, men går att identifiera från film 1.1 (avsåga hagelgevär med stor sannolikhet). Omständigheterna talar för att det är samma vapen i 1.1 som i 1.3. Därför ställt bortom all rimlig tvivel att det är TT som innehaft och avlossnat vapnet.
+
+HovR: uppgifterna om film 1.1 och 1.3 är inte oförenliga med att ha spelats in vid samma tillfälle, (klädseln är samma, samma plats, väder och skuggor) Reklyren på videon är för stark för att vara ett svagare vapen.
+
+Således styrkt att TT är den på filmen som skjuter, döms för vapenbrott.
+
+### A
+
+* den skiljaktiga meningen menar att film 1.3 kan ha varit inspelat vid ett annat tillfälle samt att det inte är visat att vapnet är det samma som i 1.1. Film 1.3 är dessutom kort och av sämre kvalitet.
+* Inget sakkunnigutlåtande om vapnet på 1.3 har heller lagts fram.
+* Andra möjligheter är inte uteslutna, därför ska åtalet ogillas
+
+### B
+
+Bevisningens robusthet
+
+Ekelöf = bevisningen inte, såvitt man kunnat finna, existerar någon ytterligare bevisning som kan påverka bevisvärdet. Ytterligare undersökning ska inte ändra bevisvärdet. (Ekelöf vol 4 s. 187-189)
+
+Doktrinen uttrycker olika saker om robustheten påverkar bevisvärdet. Här är den bristande robustheten orsaken till att åtalet ogillas.
+
+
+Åklagarens bildbevisning som visar att TT troligen innehar vapnet någonstan i sverige under sensommaren/hösten är inte tillräcklig bevisning för att ange tiden platsen för innehavet, som alltså krävs för fällande dom i vapenbrottsmål.
+
+## Del 2
+
+Gärningsbeskrivning: "på okänd plats i Sverige" ... grot då TT innehaft vvapnet "på allmän plats"
+
+### A
+
+Samma eller annan pistol?
+
+Pistolen = gärningsobjekt och relevant för utgången (ingen pistol= inget vapenbrott)
+
+Frågan om rättskraften från den första domen påverkar åtalet här? RB 30:9 - lagakraftvunnen dom avseende samma gärning utgör processhinder. 
+
+Handlar det om samma gärning bara för att det är befattning med samma objekt?
+
+Om det är samma pistol är tiden och platsen för innhavet ändå olika - innehavet är därför fortfarande otillåtet. (eller är "halva" åtalet prekluderat?) 
+
+Om det är olika pistoler är det åtminstone inte ett rättegångshinder.
+
+
+### B
+
+Om det kan anses att åtal har väckts för samma gärning ska åtalet avvisas.
+
+Om det inte kan anses som samma ska TR gå vidare i normal ordning med åtalet.
+
+### C
+
+Tillåten åtalsjustering? RB 45:5 
+
+Den ursprungliga gärningsbeskrivningen är väldigt allmänt hållen, och anger inte exakt tid eller plats.
+
+Eftersom åklagaren förs talar om "okänd plats i Sverige" kan det anses inom justeringsramen att ändra detta till en mer precisi plats, så länge denna också är allmän.
+
+Samma gäller pistolens ägande - det framkommer inte vem som äger den i den ursprungliga gärningsbeskrivningen.
+
+Tiden är angiven till den 5 juni 2019 - kan inte anses som en justering att lägga 3 dagars mellanrum. 
+
+### D
+
+Hotet = olaga hot, BrB 4:5
+
+Med risk för att gärningen annars träffas av rättskraften kan det vara lämpligt att utvidga åtalet till att gälla hotet också
+
+Dock kan det anses mer lämpligt med ett separat åtal p.g.a instansordningens princip (här finns ju t.ex. en ny målsägande)
+
+Även om samma vapen har använts till vapenbrottet kan de inte anses träffas av rättskraften att senare åtala för hotet (b.la. p.g.a olika rättsintressen)
+
+
