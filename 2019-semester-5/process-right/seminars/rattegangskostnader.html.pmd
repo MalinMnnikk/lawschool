@@ -1,0 +1,151 @@
+#lang pollen
+
+# Rättegångskostnader
+
+Bakgrund:
+
+* föreningen har träffat ett avtal om köp, som ska delbetalas i 2 omgångar om 2 mkr
+* 2019 upptäckts slitage på varorna och föreningen kräver betalning och prisavdrag om 2 mkr
+* Stämning i Göteborgs TR
+* Frågorna berör om man ska processa eller förlika?
+
+## Fråga 1
+
+
+Finansiering av rättegångskostnader:
+
+* rättshjälp är inte aktuellt (tillkommer fysika personer)
+* Rättsskyddsmoment i försäkring?
+    * kan finnas företagsförsäkring som potentiellt kan täcka rättegångskostnaderna
+* Utomstående processfinansiär? Sälja kravet?
+* Riskavtal med ombud (del av vinsten), förbud mot att advokater ingår sådana
+* rimligt prisavdrag? (om inte -> kan ändå hamna stå för en del av rättegångskostnaderna enligt proportionalitetsprincipen), kap 18 RB
+* Riskt för förlust materiellt 
+* Finansiering motpartens kostnader
+    * kan också ha ett rättsskydd
+
+--> förlikning?
+
+* sätt att undvika att rättegångskostnaderna över huvudtaget uppkommer
+
+Efter rättegången... 
+
+* Motparten kan inte betala
+    * i sak? Kostnader?
+    * insolvens? ( om föreningen går i konkurs --> kravet kan bli en tillgång i konkursen, om inte kan ställföreträdande driva det vidare (sälja etc.) Om motparten går i konkurs --> konkursfordran? Jävsprocess (inom den egna konkursförfarandet)), regler om partsbyte, 
+    * exigibilitet/möjligt utmäta?
+
+Tidsaspekt?
+
+* risk för överklagan?
+* pengarna kommer först om 3-5 år... ( --> förlikning?)
+* rennomé? Relation med varandra?
+
+Risk för personligt ansvar
+
+* vid konkurs (ställföreträdande)
+* NJA 2014 s. 877
+
+## Fråga 2
+
+
+Innan domstol - inga rättegångskostnader enligt RB kap. 18
+
+#### Ramen för tvisten: 
+
+**Föreningens yrkande**: 2 miljoner kronor.
+
+**Grund:** fel i vara --> prisavdrag (KöpL) som motsvarar skillnaden med verkligt skick
+
+**Bolaget bestrider**, med vitsordar 500 000 som skäligt i och för sig.
+
+**Grund:** inget fel föreligger (naturligt slitage) och om det är frågan om slitage är det värt max 500 000.
+
+
+### Föreningen vinner fullt ut
+
+I sak: 2 miljoner kronor
+
+Egna kostnader: - 1 mkr
+
+Kostnader från motpart: + 1 mkr (RB 18:1, skäligt neligt 18:8)
+
+--> vinner 2 mkr.
+
+Ljusbolaget
+
+Full förlust:
+
+i sak: - 2 mkr
+
+Egna kostnader: - 1 mkr
+
+Motpartens: - 1 mkr
+
+Totalt: - 4 mkr. 
+
+### Föreningen vinner enbart delvis, 1 mkr
+
+**Föreningen**
+
+I sak: + 1 mkr
+
+Egna kostnader: - 1 mkr 
+
+Ersättning till/från motparten: RB 18:4 st. 2
+
+1. Går kostnaderna att särskiljas?
+2. Tyngdpunktsprincipen - viss fråga har orsakat störst kostnad - Felfrågan (föräningen vinner = får alla kostnader) NJA 1979 s. 567
+3. Proportionalitetsprincipen. Föreningen har "tappat" 1/3, Föreningen ska betala Bolagets rättegångskostnader till 1/3 ( 330 000 kr)
+
+Tyngdpunktsprincipen är svår att tillämpa i praktiken eftersom det är svårt att veta var denna ligger och på vilken grund. Har praktisk betydelse främst i kumulerade mål där det kanske tydligare framgår vilken fråga (mål) som tagit mest resurser.
+
+Här: om tyngdpuntken ligger på felfrågan som går den att urskilja och har olika KöpL regler, så kan man tillämpa tyngdpunktsprincipen.
+
+Proportionalitetsprincipen:
+
+* enbart ett skäligt belopp, NJA 1979 s. 567
+* ej särskiljbart, samma regler/material, NJA 1982 s. 
+
+Eftersom svaranden har vitsordat 0.5 mkr så talar det för att tyngdpunkten är i om det föreligger fel, inte hur mycket felet är värt, och därför ska man tillämpa tyngdpunktsprincipen.
+
+Totalt: alt 1: + 1 mkr, alt 2 - 330 000 mkr 
+
+**Bolaget**
+
+i sak: -1mkr
+
+Egna kostnader: - 1 mkr
+
+Ersättning till/från motparten: Alt. 1 : - 1 mkr, Alt 2. + 330 000
+
+Totalt - 1.670 mkr eller - 3 mkr (tyngdpunktsprincipen)
+
+### Föreningen förlorar
+
+i sak: 0
+
+egna kostnader: - 1 mkr
+
+Motpartens kostnader: - 1 mkr
+
+Totalt - 2 mkr
+
+i sak: 0
+
+egna: - 1 mkr
+
+Motpartens: + 1 mkr
+
+Totalt: 0
+
+## Fråga 3
+
+Föreningens möjligheter
+
+A. Fullt bifall: 2 x 0.5 x 0.5 = 500 000 (väntevärde)
+B. Delvis bifall, 1 mkr: alt 1 Tynfdpunkt (60%): 1 x 0.5 x 0.5 x 0.6 = 150 ooo
+C. Alt 2 Proportionalitet: - 330 000 x 0.5 x 0.5 x 0.4 = - 33 000
+D. -2 x 0.5 = -1/-383 (summa av delbeloppen ovan)
+
+Bolaget väntevärden är dock sämre 
