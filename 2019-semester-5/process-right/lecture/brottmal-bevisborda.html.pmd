@@ -1,0 +1,194 @@
+#lang pollen
+
+# Bevisbörda och bevisvärdering i brottmål
+
+## Fri bevisprövning
+
+* Legal bevisprövning: lagen anger vad som krävs för att bevisa ett brott, vilka bevis som ska användas, vilka bevis som inte är tillåtna etc.
+* Fri bevisprövning = fri bevisföring och bevisvärdering, inga bevisförbud (dock inom ramen för "fair trial")
+
+Frihet inom vissa ramar: Bevisprövningen ska vara objektiv, neutral och rationell, säkerställs genom:
+
+* vetenskaplihet och icke-formell metod
+* kontroll (motiveringsplikt och flera instanser)
+
+I beaktande av att dömandet i brottmål utgör en avvögning mellan rättsäkerhet och effektivitet (rätten till en rättvis rättegång, högt ställt beviskrav, äklagaren bär bevisnördan etc.) 
+
+### Förbjudna bevis?
+
+Inget förbud mot hörsägen, karaktärsbevisning, lögndetektor etc. endast bevis som:
+
+* uppenbart blir utan verkan eller
+* som inte behövs mht regeln om bästa bevis, kan avvisas RB 35:7
+
+Bevisets uppkomst och styrka beaktas vid bevisvärderingen
+
+Bevisning som kan ha tillkommit i strid med "fair trial" innebär en rättighetskränking ska bedömas utifrån processen som en helhet
+
+Bevis som tillkommit på grovt otillbörligt sätt får dock inte förekomma i en rättegång
+
+## Bevislärans källor
+
+* RB 35:1 - generalklausul
+* rationalitet, delar före helhet
+* NJA 1980 s. 725, ställt utom rimlig tvivel och 2015 s. 702 - alternativhypotesprövning
+
+Doktrin:
+
+1. Frekvensteori - sannolikhetskalkyl för temat
+2. Beslutsteori - risken för felaktiga beslut
+3. Hermeneutisk teori - falsifiering av alternativa hypoteser
+4. berättelseteorin
+
+## Bevislärans element
+
+Bevistema = vad ska bevisas? Vad ska styrkas med varje bevis
+
+Bevisbörda = vem ska bevisa temat?
+
+Utredningsbörda = vem ska svara för bevisningen?
+
+Bevisföring = hur ska bevisningen läggas fram?
+
+Beviskrav = hur starkt måste bevisningen vara?
+
+#### Stegvis prövning
+
+1. Rättsfrågor: Bevisböra och beviskrav?
+2. Bavisvärdering i det enskilda fallet;
+3. Bevis för bevis och rekvisit för rekvisit (preciserat i gärningsbeskrivningen)
+4. Spricker bevisningen i någon del faller hela åtalet (om det inte är möjligt att döma för lindrigare brott)
+
+#### Bevistema = vad ska bevisas?
+
+**Gärningspåståendet**
+
+* X har
+* på viss tid och plats
+* uppsåtligen
+* handlat
+* så att effekt inträtt
+
+Steg 1 : dela in gärningsbeskrivningen i delteman
+
+Steg 2 Fördela bevisningen (fakta) i målet på respektive deltema
+
+* relevansbedömning: bevis ska bara beaktas i den mån de kan inverka positivt eller negativ på hållfastheten i åklagarens gärningspåstående och bara i de delar där beviset är relevant
+
+Steg 3: Bestäm bevisens tendens:
+
+* huvudbevis eller motbevis (alt. motsatsbevis, t.ex. alibi)
+
+Steg 4: Bestäm omständigheternas kategoritillhörighet (utifrån kausalitet)
+
+* A. Oberoende bevis: bevisfakta (=direkt kausala bevis, som "har remat som källa") - flera bevisfakta som talar i samma riktining ger samverkanskraft
+* B. Beroende bevis:
+    * 1. Kedjebevis (= ett bevis i flera länkar) t.ex. hörsägen - aldrig starkare än svagaste länken,
+    * 2. Indicier (= "circumstantional evidence") t.ex. motiv - kan skapa eliminationsbevis
+* C. Hjälpfakta: inga bevis, bara tolkningsfakta t.ex. miljöinformation eller sakkunniguppgifter
+
+#### Beviskategori beror på närheten till brottet (inte dess styrka)
+
+Direkt eller indirekt bevis (eller bara hjälpfaktum) beror på sammanhanget
+
+Är beviset en följd av brottet = direkt bevis t.ex. skada
+
+Finns beviset oavsett brottet = indirekt bevis t.ex. motiv
+
+Vittnesmål? Beror på om vittnet såg brottet
+
+DNA? Beror på om spåret finns på offret eller bara på platsen
+
+#### Stödbevis
+
+* oklar vad som menas, men syftar ofta till omständigheter som stöder huvudbevis (t.ex. en utsaga)
+* inga krav på stödbevis men behövs för att uppnp beviskravet om huvudbeviset inte är fullt tillförlitligt NJA 2005 s. 712
+
+#### Bevisbörda = vem ska bevisa temat?
+
+Uppfylls genom att bevisbördepunkten uppnås
+
+Bevisbördan i brottmål ligger alltid på åklagaren, den tilltalade behöver aldrig bevisa sin oskuld
+
+Åklagaren har även en (mot)bevisbörda för ansvarsfrihetsgrunder
+
+Den tilltalade har rätt att tiga och vara passiv = ingen utredningsbörda, ingen åberopsbörda, ingen förklaringsbörda
+
+* dock kan brist på förklaring sänka trovärdigheten och förklaringar som är omöjliga att kontrollera kan domstolen lämna utan avseende
+    * ED: Murray / Storbritannien och Averill / Storbritannien
+
+#### Beviskravet = hur stark bevisning krävs?
+
+* i RB finns flera beviskrav för brottmålsprocessen lagfästa, b.la. "kan misstänkas", "skäligen misstänkt", "sannolika skäl" etc. men det slutliga breviskravet är: "ställt bortom rimligt tvivel"
+* rimlig tvivel = tvivlet ska vara raionellt och konkret men slutsatsen bygger också på att utredningen ger möjlighet att finna sådant tvivel
+* tvivelt är inte intuitivt, personligt eller spekulativt
+
+#### Utredningskrav = vilket underlag krävs?
+
+Kravet på utredningen beror på:
+
+1. Brottets grovhet
+2. den tilltalades inställning
+3. Brottets komplexitet och
+4. omständigheterna i det enskilda fallet 2
+
+Om åklagaren inte uppfyllt sin utredningsbörda har domstolen inte möjlighet att undersöka alternativa förklaringar till bevis (tvivel)
+
+Steg 5 : bedöm om processmaterialet duger för en slutsats "på goda grunder"
+
+* om utredningskravet inte är uppfyllt ska åtalet ogillas ("ej klarlagt")
+
+De sista stegen:
+
+Steg 6: Pröva det positiva beviskravet för varje deltema (= om det är "styrkt" eller "kan hållas för visst")
+
+Risken med att stanna vid en balansavägning är att åklagaren vinner om försvaret inte har nåt att komma med.
+
+Steg 7: Pröva felmarginalen i varje deltema där bortom rimligt tvivel krävs. Metod: Elimination av alternativa hypoteser (även uppställda ex officio) - först när andra förklaringar är borta har brottet ställts utom rimlig tvivel
+
+NJA 1990 s. 555
+
+NJA 1980 s. 725
+
+### Bevisvärdering av utsagor
+
+Tillräckligt för fällande dom?
+
+Skilj mellan trovärdighet (intryck/person) och tillförlitlighet (bevisvärde)
+
+Utsagans tillförlitlighet prövas genom kriteriet:
+
+* spontanitet
+* längd och detaljrikedom
+* konstans
+* reistens
+* homogenitet
+* adekvans
+
+Brister i kriterienra måste kompenseras med stödbevis
+
+NJA 2010 s. 671
+
+HD fokuserar mer på bristerna än på positiva uppfyllande av kriterierna
+
+HD poängterar vikten av att polisen undersöker alla möjligheter till stödbevis
+
+Insikt om svårigheter i lögndetektion och värdering av säkerhet i utsagor
+
+Adekvans
+
+Brister i kriterienas uppfyllande måste kompenseras med stödbevis
+
+#### Analys av utsaga
+
+1. Ger berättandet ett trovärdigt intryck? (dock svagt bevisvärde)
+2. Innehåller utsagan lögner? (Om ja: förklaring?)
+3. Innehåller utsagan fel? (Om ja: förklaring?)
+4. Innehåller utsagan motsägelser? (Om ja: förklaring?)
+5. Har utsagan luckor? (Om ja: förklaring?)
+6. Har utsagan ändrats? (Om ja: förklaring?)
+7. Står personen fast vid innehåll och säkerhet vid ifrågasättanden?
+8. Är utsagan detaljrik? (Om nej: förklaring?)
+9. Är detaljerna unika?
+10. Finns det motiv för oriktig utsaga?
+
