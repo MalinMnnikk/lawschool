@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Termin 5, hösten 2019, by MalinMnnikk </title>
+  <title>◊(select 'h2 doc), by MalinMnnikk </title>
   <style type="text/css">
     body {padding: 3em; font-size: 20px; font-family: Helvetica; color: #272729;}
     h1 {background: #3F3E40; color: #FEFAFF; padding: 10px;}
@@ -16,9 +16,16 @@
     span#prev {float: left;}
   </style>
 </head>
-<body> <h2>Termin 5, hösten 2019</h2><ul><li><a href="#folkrätt">Folkrätt</a></li></ul><h1 id="folkrätt">Folkrätt</h1><p><a href="./lectures/index.html">Föreläsningar</a></p><p><a href="./seminars/index.html">Seminarium</a></p>
+<body> ◊(->html doc #:splice? #t)
   <hr />
-
-
+◊(define prev-page (previous here))
+◊when/splice[prev-page]{
+ <span id="prev">←
+ <a href="◊|prev-page|">◊(select 'h1 prev-page)</a>
+ </span>}
+◊(define next-page (next here))
+◊when/splice[next-page]{
+ <span id="next"><a href="◊|next-page|">◊(select 'h1 next-page)</a> →
+ </span>}
 </body>
 </html>
