@@ -16,7 +16,7 @@
   (let* ([headers (filter is-header? elements)]
          [toc (map header->li headers)]) 
     (list
-     (txexpr 'h2 '() (list "Termin 5, hösten 2019"))
+     (txexpr 'h2 '() (list "Folkrätt, Hösten 2019"))
      (txexpr 'ul '() toc))))
 
 (define (is-header? element)
